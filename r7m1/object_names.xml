@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+
+	<Object
+		Name="MayakCity"
+		FullName="Старый Маяк" />
+
+	<Object
+		Name="MayakCity_enter"
+		FullName="Старый Маяк" />
+
+	<Object
+		Name="MayakCity_House"
+		FullName="Домик Смотрителя" />
+
+	<Object
+		Name="MayakCity_Workshop"
+		FullName="Мастерская" />
+
+	<Object
+		Name="DocVincent_NPC"
+		FullName="Смотритель Винсент " />
+
+	<Object
+		Name="MaraMotos"
+		FullName="Марамотос" />
+
+	<Object
+		Name="MaraMotos_enter"
+		FullName="Марамотос" />
+
+	<Object
+		Name="MaraMotos_Shop"
+		FullName="Магазин" />
+
+	<Object
+		Name="MaraMotos_Bar"
+		FullName="Сельская пивнушка" />
+
+	<Object
+		Name="MaraMotos_Bar_Barman"
+		FullName="Селянин Игназио" />
+
+	<Object
+		Name="MaraMotos_Workshop"
+		FullName="Мастерская" />
+
+	<Object
+		Name="Kristy"
+		FullName="Кристи" />
+
+	<Object
+		Name="Kristy_enter"
+		FullName="Кристи" />
+
+	<Object
+		Name="Kristy_Bar"
+		FullName="Гостинница" />
+
+	<Object
+		Name="Kristy_Bar_Barman"
+		FullName="Смотрительница Цири" />
+
+	<Object
+		Name="PetrolStationr7m1_1"
+		FullName="Заправка" />
+
+	<Object
+		Name="PetrolStationr7m1_1_enter"
+		FullName="Заправка" />
+
+	<Object
+		Name="Monterrey"
+		FullName="Монтерей" />
+
+	<Object
+		Name="Monterrey_enter"
+		FullName="Монтерей" />
+
+	<Object
+		Name="Monterrey_Shop"
+		FullName="Магазин" />
+
+	<Object
+		Name="Monterrey_Bar"
+		FullName="Бар ''Alvarez''" />
+
+	<Object
+		Name="Monterrey_Workshop"
+		FullName="Мастерская" />
+
+	<Object
+		Name="Monterrey_Bar_Barman"
+		FullName="Хозяйка Альварез" />
+
+	<Object
+		Name="PetrolStationr7m1_2"
+		FullName="Заправка" />
+
+	<Object
+		Name="PetrolStationr7m1_2_Workshop"
+		FullName="Мастерская" />
+
+	<Object
+		Name="PetrolStationr7m1_2_enter"
+		FullName="Заправка" />
+
+	<Object	Name = "DynQEnemy01"					FullName = "Гарольд" />
+	<Object	Name = "DynQEnemy02"					FullName = "Сизый Билл" />
+	<Object	Name = "DynQEnemy03"					FullName = "Гудвин" />
+	<Object	Name = "DynQEnemy04"					FullName = "Жорж Добробуш" />
+	<Object	Name = "DynQEnemy05"					FullName = "Ленивый Хьюго" />
+	<Object	Name = "DynQEnemy06"					FullName = "Кровавый Грэг" />
+	<Object	Name = "DynQEnemy07"					FullName = "Николас" />
+	<Object	Name = "DynQEnemy08"					FullName = "Грязный Том" />
+	<Object	Name = "DynQEnemy09"					FullName = "Джон С. Смит" />
+	<Object	Name = "DynQEnemy10"					FullName = "Клинт Уэйн" />
+	<Object	Name = "DynQEnemy11"					FullName = "Джон Иствуд" />
+	<Object	Name = "DynQEnemy12"					FullName = "Макс Гибсон" />
+	<Object	Name = "DynQEnemy13"					FullName = "Чистый Эл" />
+	<Object	Name = "DynQEnemy14"					FullName = "Однорукий Соер" />
+	<Object	Name = "DynQEnemy15"					FullName = "Мошенник Чарли" />
+	<Object	Name = "DynQEnemy16"					FullName = "Бор Рис" />
+	<Object	Name = "DynQEnemy17"					FullName = "Ловкач Бэн" />
+	<Object	Name = "DynQEnemy18"					FullName = "Шулер Смит" />
+	<Object	Name = "DynQEnemy19"					FullName = "Картежник Питер" />
+	<Object	Name = "DynQEnemy20"					FullName = "Стрелок Жан" />
+	<Object	Name = "DynQEnemy21"					FullName = "Одноглазый Джонни" />
+	<Object	Name = "DynQEnemy22"					FullName = "Маньяк Энтони" />
+	<Object	Name = "DynQEnemy23"					FullName = "Большой Вилли" />
+	<Object	Name = "DynQEnemy24"					FullName = "Билл" />
+	<Object	Name = "DynQEnemy25"					FullName = "Вспыльчивый Майк" />
+</ObjectNames>

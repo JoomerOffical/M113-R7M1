@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource><!-- 1.	Начальная фраза игрока. -->
+	<string
+		id="100"
+		modelName="mask_father"
+		modelSkin="2"
+		modelSlot="1"
+		value="ДОК ВИНСЕНТ|Проснулся, лежебока. Я уже битый час жду, когда ты проснешься, чтобы ты помог мне кое в чем. А ты все спишь, как сурок."
+		sound=""
+		time="8" />
+
+	<string
+		id="101"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Доброе утро, Док. Чего хотел?"
+		sound=""
+		time="3" />
+
+	<string
+		id="102"
+		modelName="mask_father"
+		modelSkin="2"
+		modelSlot="1"
+		value="ДОКТОР|Ладно. Сегодня у тебя последний день на больничной койке. Ты был прекрасным пациентом за все эти годы. В общем я решил, что настало время выписать тебя."
+		sound=""
+		time="9" />
+
+	<string
+		id="103"
+		modelName="mask_father"
+		modelSkin="2"
+		modelSlot="1"
+		value="ДО ВИНСЕНТ|Теперь ты полностью восстановлен и сможешь наконец-то сесть за баранку. Но лучше конечно поездить по местности, прежде чем ехать в дальние края."
+		sound=""
+		time="8" />
+
+	<string
+		id="104"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Ну славав богу, ядрен бензин. Я то  думал, что я буду до старости лежать на койке."
+		sound=""
+		time="5" />
+
+	<string
+		id="105"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|То есть хотел сказать, спасибо Док, за то что помог мне. Постараюсь не вляпаться еще куда-нибудь."
+		sound=""
+		time="5" />
+
+	<string
+		id="106"
+		modelName="mask_father"
+		modelSkin="2"
+		modelSlot="1"
+		value="ДОК ВИНСЕНТ|Да, но сначала..."
+		sound=""
+		time="3" />
+
+	<string
+		id="107"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Мне уже не терпиться за барнку сесть. Так что ты хотел, Док?"
+		sound=""
+		time="5" />
+
+	<string
+		id="108"
+		modelName="mask_father"
+		modelSkin="2"
+		modelSlot="1"
+		value="ДОК ВИНСЕНТ|Ох, ну раз уж отправляешься в путь, окажи старику небольшую услугу. Возьми эту квитанцию и поезжай в Монтерей. Забери лампочку для моего маяка и возвращайся поскорее. После чего сможешь отправиться, куда глаза глядят."
+		sound=""
+		time="12" />
+
+	<string
+		id="109"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Лады, старик. Я скоро вернусь."
+		sound=""
+		time="3" />
+
+	<string
+		id="8801"
+		value="Вы желаете покинуть эту область?"
+		numButtons="2" />
+
+	<string
+		id="8802"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Я не знаю, куда ведет эта дорога, поэтому останусь здесь." 
+		sound="data\sounds\Speech\r5m1\r5m1_8802_nomad.ogg"
+		time="5" />
+
+	<string
+		id="8803"
+		modelName="NewHero_mask"
+		value="БРОДЯГА|Какое-то странное место. Лучше держаться отсюда подальше."
+		sound="data\sounds\Speech\r5m1\r5m1_8803_nomad.ogg"
+		time="5" />
+
+</resource>
