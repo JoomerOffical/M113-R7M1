@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<Paths>
+	<Path
+		Name="DestroyBandits_path0">
+		<Point
+			coord="2180.974 2471.437" />
+
+		<Point
+			coord="2181.567 2423.527" />
+
+		<Point
+			coord="2180.377 2377.988" />
+
+		<Point
+			coord="2156.831 2313.608" />
+
+		<Point
+			coord="2128.085 2234.923" />
+
+		<Point
+			coord="2092.281 2166.592" />
+
+		<Point
+			coord="2069.033 2088.414" />
+
+		<Point
+			coord="2053.810 2036.181" />
+
+		<Point
+			coord="1979.046 1964.728" />
+
+		<Point
+			coord="1941.936 1918.627" />
+
+		<Point
+			coord="1922.443 1824.369" />
+
+		<Point
+			coord="1909.869 1755.795" />
+
+		<Point
+			coord="1919.056 1674.876" />
+
+		<Point
+			coord="1928.068 1593.359" />
+
+		<Point
+			coord="1914.326 1492.563" />
+
+		<Point
+			coord="1892.427 1373.169" />
+
+		<Point
+			coord="1884.471 1258.631" />
+
+		<Point
+			coord="1887.661 1137.223" />
+
+		<Point
+			coord="1922.780 1048.672" />
+
+		<Point
+			coord="1972.788 958.520" />
+
+		<Point
+			coord="2008.461 870.539" />
+
+		<Point
+			coord="2075.472 866.252" />
+
+		<Point
+			coord="2115.420 846.164" />
+
+		<Point
+			coord="2167.228 833.739" />
+
+		<Point
+			coord="2259.743 847.137" />
+
+		<Point
+			coord="2330.126 896.845" />
+
+		<Point
+			coord="2372.414 934.147" />
+
+		<Point
+			coord="2382.167 1006.169" />
+
+		<Point
+			coord="2389.866 1117.525" />
+
+		<Point
+			coord="2379.043 1187.964" />
+
+		<Point
+			coord="2350.680 1239.450" />
+	</Path>
+
+	<Path
+		Name="FirstBandit_path0">
+		<Point
+			coord="3066.801 522.796" />
+	</Path>
+
+	<Path
+		Name="Kristy_Maramotos_DQC">
+		<Point
+			coord="3386.789 3228.245" />
+
+		<Point
+			coord="3341.621 3251.953" />
+
+		<Point
+			coord="3293.309 3278.303" />
+
+		<Point
+			coord="3245.915 3313.465" />
+
+		<Point
+			coord="3217.142 3357.149" />
+
+		<Point
+			coord="3193.467 3397.572" />
+
+		<Point
+			coord="3182.193 3458.917" />
+
+		<Point
+			coord="3174.261 3522.866" />
+
+		<Point
+			coord="3155.928 3582.147" />
+
+		<Point
+			coord="3081.465 3594.162" />
+
+		<Point
+			coord="3014.245 3628.925" />
+
+		<Point
+			coord="2959.096 3688.561" />
+
+		<Point
+			coord="2901.837 3706.300" />
+
+		<Point
+			coord="2831.312 3693.966" />
+
+		<Point
+			coord="2789.261 3638.182" />
+
+		<Point
+			coord="2748.129 3557.375" />
+
+		<Point
+			coord="2721.571 3516.517" />
+
+		<Point
+			coord="2667.549 3503.698" />
+
+		<Point
+			coord="2385.182 3516.052" />
+
+		<Point
+			coord="2299.213 3518.953" />
+
+		<Point
+			coord="2225.815 3527.263" />
+
+		<Point
+			coord="2204.237 3457.751" />
+
+		<Point
+			coord="2210.058 3381.812" />
+
+		<Point
+			coord="2204.697 3252.793" />
+
+		<Point
+			coord="2183.334 3175.217" />
+
+		<Point
+			coord="2149.857 3128.108" />
+
+		<Point
+			coord="2099.284 3037.429" />
+
+		<Point
+			coord="2051.802 2958.998" />
+
+		<Point
+			coord="2056.487 2889.407" />
+
+		<Point
+			coord="2079.720 2810.583" />
+
+		<Point
+			coord="2124.229 2756.592" />
+
+		<Point
+			coord="2162.360 2706.084" />
+
+		<Point
+			coord="2184.148 2642.198" />
+
+		<Point
+			coord="2223.498 2629.530" />
+	</Path>
+
+	<Path
+		Name="Kristy_Monterrey_DQC">
+		<Point
+			coord="3386.162 3228.089" />
+
+		<Point
+			coord="3342.582 3249.147" />
+
+		<Point
+			coord="3297.185 3274.128" />
+
+		<Point
+			coord="3246.834 3314.529" />
+
+		<Point
+			coord="3206.604 3369.380" />
+
+		<Point
+			coord="3188.244 3418.580" />
+
+		<Point
+			coord="3177.063 3503.194" />
+
+		<Point
+			coord="3171.677 3561.725" />
+
+		<Point
+			coord="3126.796 3592.981" />
+
+		<Point
+			coord="3067.293 3599.845" />
+
+		<Point
+			coord="3018.761 3624.555" />
+
+		<Point
+			coord="2964.594 3681.396" />
+
+		<Point
+			coord="2908.433 3706.630" />
+
+		<Point
+			coord="2851.609 3700.263" />
+
+		<Point
+			coord="2806.146 3665.404" />
+
+		<Point
+			coord="2765.682 3591.263" />
+
+		<Point
+			coord="2730.033 3530.480" />
+
+		<Point
+			coord="2684.159 3507.351" />
+
+		<Point
+			coord="2632.346 3503.950" />
+
+		<Point
+			coord="2431.424 3513.923" />
+
+		<Point
+			coord="2303.201 3519.850" />
+
+		<Point
+			coord="2229.672 3535.418" />
+
+		<Point
+			coord="2159.689 3550.167" />
+
+		<Point
+			coord="2101.493 3589.813" />
+
+		<Point
+			coord="2067.430 3638.227" />
+
+		<Point
+			coord="2054.792 3713.747" />
+
+		<Point
+			coord="2030.221 3778.399" />
+
+		<Point
+			coord="1992.120 3817.509" />
+
+		<Point
+			coord="1931.766 3828.810" />
+
+		<Point
+			coord="1842.290 3823.445" />
+
+		<Point
+			coord="1772.797 3811.602" />
+
+		<Point
+			coord="1665.866 3760.129" />
+
+		<Point
+			coord="1553.077 3692.610" />
+
+		<Point
+			coord="1478.853 3649.316" />
+
+		<Point
+			coord="1413.105 3597.047" />
+
+		<Point
+			coord="1365.916 3584.506" />
+
+		<Point
+			coord="1328.191 3608.836" />
+
+		<Point
+			coord="1310.016 3676.128" />
+
+		<Point
+			coord="1265.005 3735.644" />
+
+		<Point
+			coord="1203.643 3766.721" />
+
+		<Point
+			coord="1136.001 3745.310" />
+
+		<Point
+			coord="1035.534 3687.748" />
+
+		<Point
+			coord="965.443 3645.950" />
+
+		<Point
+			coord="891.475 3562.783" />
+
+		<Point
+			coord="861.731 3473.761" />
+
+		<Point
+			coord="866.836 3392.191" />
+
+		<Point
+			coord="902.655 3313.626" />
+
+		<Point
+			coord="909.629 3229.654" />
+
+		<Point
+			coord="899.415 3181.081" />
+
+		<Point
+			coord="873.682 3121.803" />
+
+		<Point
+			coord="840.209 3087.298" />
+
+		<Point
+			coord="801.851 3065.515" />
+
+		<Point
+			coord="736.484 3059.129" />
+
+		<Point
+			coord="662.355 3042.674" />
+
+		<Point
+			coord="603.626 3003.482" />
+
+		<Point
+			coord="552.534 2918.123" />
+
+		<Point
+			coord="507.103 2858.628" />
+
+		<Point
+			coord="471.749 2806.338" />
+
+		<Point
+			coord="425.695 2784.134" />
+
+		<Point
+			coord="366.875 2758.101" />
+
+		<Point
+			coord="319.030 2720.000" />
+
+		<Point
+			coord="300.648 2685.749" />
+
+		<Point
+			coord="302.647 2614.073" />
+
+		<Point
+			coord="298.718 2533.421" />
+
+		<Point
+			coord="300.781 2471.065" />
+
+		<Point
+			coord="319.628 2431.144" />
+
+		<Point
+			coord="325.315 2365.070" />
+
+		<Point
+			coord="324.465 2333.232" />
+
+		<Point
+			coord="299.784 2309.368" />
+
+		<Point
+			coord="284.220 2311.786" />
+	</Path>
+
+	<Path
+		Name="Maramotos_Kristy_DQC">
+		<Point
+			coord="2178.399 2523.973" />
+
+		<Point
+			coord="2178.750 2591.869" />
+
+		<Point
+			coord="2178.416 2647.153" />
+
+		<Point
+			coord="2157.662 2714.059" />
+
+		<Point
+			coord="2121.921 2758.482" />
+
+		<Point
+			coord="2075.388 2813.542" />
+
+		<Point
+			coord="2059.011 2879.798" />
+
+		<Point
+			coord="2046.812 2944.788" />
+
+		<Point
+			coord="2079.720 3011.801" />
+
+		<Point
+			coord="2112.168 3051.237" />
+
+		<Point
+			coord="2142.930 3095.191" />
+
+		<Point
+			coord="2168.597 3150.337" />
+
+		<Point
+			coord="2205.905 3260.545" />
+
+		<Point
+			coord="2209.315 3344.642" />
+
+		<Point
+			coord="2208.757 3390.510" />
+
+		<Point
+			coord="2208.784 3469.413" />
+
+		<Point
+			coord="2219.013 3526.315" />
+
+		<Point
+			coord="2287.198 3520.647" />
+
+		<Point
+			coord="2508.404 3495.040" />
+
+		<Point
+			coord="2599.360 3500.054" />
+
+		<Point
+			coord="2685.306 3507.063" />
+
+		<Point
+			coord="2731.235 3527.071" />
+
+		<Point
+			coord="2772.671 3598.436" />
+
+		<Point
+			coord="2813.497 3680.531" />
+
+		<Point
+			coord="2854.197 3702.843" />
+
+		<Point
+			coord="2936.007 3705.976" />
+
+		<Point
+			coord="3000.917 3651.314" />
+
+		<Point
+			coord="3060.243 3601.310" />
+
+		<Point
+			coord="3136.591 3591.008" />
+
+		<Point
+			coord="3177.208 3574.080" />
+
+		<Point
+			coord="3175.271 3533.617" />
+
+		<Point
+			coord="3184.667 3449.391" />
+
+		<Point
+			coord="3198.289 3386.727" />
+
+		<Point
+			coord="3226.622 3342.072" />
+
+		<Point
+			coord="3270.229 3296.453" />
+
+		<Point
+			coord="3330.486 3254.242" />
+
+		<Point
+			coord="3377.801 3229.612" />
+
+		<Point
+			coord="3404.741 3269.907" />
+	</Path>
+
+	<Path
+		Name="Maramotos_Monterrey_DQC">
+		<Point
+			coord="2185.068 2523.252" />
+
+		<Point
+			coord="2181.516 2469.405" />
+
+		<Point
+			coord="2182.346 2403.519" />
+
+		<Point
+			coord="2169.384 2342.911" />
+
+		<Point
+			coord="2135.171 2247.666" />
+
+		<Point
+			coord="2093.347 2158.774" />
+
+		<Point
+			coord="2064.865 2077.378" />
+
+		<Point
+			coord="2050.879 2031.504" />
+
+		<Point
+			coord="1987.502 1971.613" />
+
+		<Point
+			coord="1939.126 1916.446" />
+
+		<Point
+			coord="1919.173 1812.076" />
+
+		<Point
+			coord="1906.575 1731.339" />
+
+		<Point
+			coord="1922.833 1649.030" />
+
+		<Point
+			coord="1927.187 1587.212" />
+
+		<Point
+			coord="1901.030 1444.306" />
+
+		<Point
+			coord="1884.902 1303.429" />
+
+		<Point
+			coord="1886.472 1133.757" />
+
+		<Point
+			coord="1899.839 1071.470" />
+
+		<Point
+			coord="1955.552 982.556" />
+
+		<Point
+			coord="2005.274 870.996" />
+
+		<Point
+			coord="1957.980 863.289" />
+
+		<Point
+			coord="1916.548 839.720" />
+
+		<Point
+			coord="1899.214 784.440" />
+
+		<Point
+			coord="1873.224 705.370" />
+
+		<Point
+			coord="1870.548 651.519" />
+
+		<Point
+			coord="1877.585 596.438" />
+
+		<Point
+			coord="1840.603 540.426" />
+
+		<Point
+			coord="1800.762 479.562" />
+
+		<Point
+			coord="1746.900 494.814" />
+
+		<Point
+			coord="1675.538 507.770" />
+
+		<Point
+			coord="1444.875 554.141" />
+
+		<Point
+			coord="1365.459 571.277" />
+
+		<Point
+			coord="1279.532 539.609" />
+
+		<Point
+			coord="1206.435 514.578" />
+
+		<Point
+			coord="1111.603 493.853" />
+
+		<Point
+			coord="1052.167 487.866" />
+
+		<Point
+			coord="958.791 507.842" />
+
+		<Point
+			coord="897.363 536.773" />
+
+		<Point
+			coord="831.878 613.375" />
+
+		<Point
+			coord="794.424 709.181" />
+
+		<Point
+			coord="764.562 813.398" />
+
+		<Point
+			coord="746.141 927.284" />
+
+		<Point
+			coord="739.823 1021.205" />
+
+		<Point
+			coord="732.697 1093.877" />
+
+		<Point
+			coord="696.462 1151.316" />
+
+		<Point
+			coord="736.036 1203.783" />
+
+		<Point
+			coord="759.092 1281.784" />
+
+		<Point
+			coord="784.307 1399.272" />
+
+		<Point
+			coord="782.114 1521.461" />
+
+		<Point
+			coord="768.802 1582.193" />
+
+		<Point
+			coord="716.296 1669.328" />
+
+		<Point
+			coord="684.063 1736.678" />
+
+		<Point
+			coord="651.058 1848.368" />
+
+		<Point
+			coord="616.144 1963.270" />
+
+		<Point
+			coord="576.844 2041.737" />
+
+		<Point
+			coord="531.289 2089.202" />
+
+		<Point
+			coord="525.332 2136.174" />
+
+		<Point
+			coord="543.431 2190.730" />
+
+		<Point
+			coord="575.815 2245.490" />
+
+		<Point
+			coord="566.694 2329.517" />
+
+		<Point
+			coord="535.313 2377.917" />
+
+		<Point
+			coord="464.105 2409.397" />
+
+		<Point
+			coord="401.021 2400.331" />
+
+		<Point
+			coord="358.865 2369.732" />
+
+		<Point
+			coord="339.671 2344.135" />
+
+		<Point
+			coord="314.293 2310.326" />
+
+		<Point
+			coord="287.012 2311.168" />
+	</Path>
+
+	<Path
+		Name="Monterrey_Kristy_DQC">
+		<Point
+			coord="334.663 2409.852" />
+
+		<Point
+			coord="306.541 2457.505" />
+
+		<Point
+			coord="299.834 2494.849" />
+
+		<Point
+			coord="300.868 2541.193" />
+
+		<Point
+			coord="303.484 2609.107" />
+
+		<Point
+			coord="304.454 2670.548" />
+
+		<Point
+			coord="310.861 2715.847" />
+
+		<Point
+			coord="364.432 2757.151" />
+
+		<Point
+			coord="420.261 2788.555" />
+
+		<Point
+			coord="478.499 2823.611" />
+
+		<Point
+			coord="506.708 2864.748" />
+
+		<Point
+			coord="550.095 2905.635" />
+
+		<Point
+			coord="588.655 2992.043" />
+
+		<Point
+			coord="642.980 3035.396" />
+
+		<Point
+			coord="718.251 3059.958" />
+
+		<Point
+			coord="793.597 3067.383" />
+
+		<Point
+			coord="839.447 3088.261" />
+
+		<Point
+			coord="888.993 3158.552" />
+
+		<Point
+			coord="907.428 3229.783" />
+
+		<Point
+			coord="904.388 3316.082" />
+
+		<Point
+			coord="869.546 3388.627" />
+
+		<Point
+			coord="859.116 3462.479" />
+
+		<Point
+			coord="877.470 3536.170" />
+
+		<Point
+			coord="915.283 3601.146" />
+
+		<Point
+			coord="956.068 3639.324" />
+
+		<Point
+			coord="1035.615 3689.327" />
+
+		<Point
+			coord="1111.237 3730.263" />
+
+		<Point
+			coord="1177.833 3764.789" />
+
+		<Point
+			coord="1227.071 3762.004" />
+
+		<Point
+			coord="1286.388 3727.839" />
+
+		<Point
+			coord="1313.595 3656.937" />
+
+		<Point
+			coord="1332.163 3604.741" />
+
+		<Point
+			coord="1380.480 3579.972" />
+
+		<Point
+			coord="1427.128 3612.095" />
+
+		<Point
+			coord="1486.811 3654.486" />
+
+		<Point
+			coord="1604.079 3720.914" />
+
+		<Point
+			coord="1680.112 3768.320" />
+
+		<Point
+			coord="1770.623 3810.383" />
+
+		<Point
+			coord="1842.507 3822.669" />
+
+		<Point
+			coord="1930.304 3827.437" />
+
+		<Point
+			coord="1990.821 3821.873" />
+
+		<Point
+			coord="2037.658 3771.505" />
+
+		<Point
+			coord="2059.028 3697.375" />
+
+		<Point
+			coord="2070.435 3635.425" />
+
+		<Point
+			coord="2108.575 3587.855" />
+
+		<Point
+			coord="2153.952 3554.990" />
+
+		<Point
+			coord="2206.254 3537.446" />
+
+		<Point
+			coord="2267.621 3522.574" />
+
+		<Point
+			coord="2499.887 3505.578" />
+
+		<Point
+			coord="2600.443 3499.973" />
+
+		<Point
+			coord="2690.812 3508.896" />
+
+		<Point
+			coord="2735.287 3538.717" />
+
+		<Point
+			coord="2783.512 3624.779" />
+
+		<Point
+			coord="2810.741 3674.139" />
+
+		<Point
+			coord="2843.509 3698.568" />
+
+		<Point
+			coord="2907.733 3709.939" />
+
+		<Point
+			coord="2954.357 3697.094" />
+
+		<Point
+			coord="3012.072 3638.607" />
+
+		<Point
+			coord="3064.269 3599.770" />
+
+		<Point
+			coord="3143.061 3584.315" />
+
+		<Point
+			coord="3170.390 3576.905" />
+
+		<Point
+			coord="3178.564 3501.541" />
+
+		<Point
+			coord="3187.718 3439.015" />
+
+		<Point
+			coord="3201.358 3378.911" />
+
+		<Point
+			coord="3239.476 3324.941" />
+
+		<Point
+			coord="3288.866 3279.496" />
+
+		<Point
+			coord="3347.236 3242.227" />
+
+		<Point
+			coord="3383.910 3226.887" />
+
+		<Point
+			coord="3403.299 3257.849" />
+
+		<Point
+			coord="3406.095 3282.025" />
+	</Path>
+
+	<Path
+		Name="Monterrey_Maramotos_DQC">
+		<Point
+			coord="334.663 2409.852" />
+
+		<Point
+			coord="306.541 2457.505" />
+
+		<Point
+			coord="299.834 2494.849" />
+
+		<Point
+			coord="300.868 2541.193" />
+
+		<Point
+			coord="303.484 2609.107" />
+
+		<Point
+			coord="304.454 2670.548" />
+
+		<Point
+			coord="310.861 2715.847" />
+
+		<Point
+			coord="364.432 2757.151" />
+
+		<Point
+			coord="420.261 2788.555" />
+
+		<Point
+			coord="478.499 2823.611" />
+
+		<Point
+			coord="506.708 2864.748" />
+
+		<Point
+			coord="550.095 2905.635" />
+
+		<Point
+			coord="588.655 2992.043" />
+
+		<Point
+			coord="642.980 3035.396" />
+
+		<Point
+			coord="718.251 3059.958" />
+
+		<Point
+			coord="793.597 3067.383" />
+
+		<Point
+			coord="839.447 3088.261" />
+
+		<Point
+			coord="888.993 3158.552" />
+
+		<Point
+			coord="907.428 3229.783" />
+
+		<Point
+			coord="904.388 3316.082" />
+
+		<Point
+			coord="869.546 3388.627" />
+
+		<Point
+			coord="859.116 3462.479" />
+
+		<Point
+			coord="877.470 3536.170" />
+
+		<Point
+			coord="915.283 3601.146" />
+
+		<Point
+			coord="956.068 3639.324" />
+
+		<Point
+			coord="1035.615 3689.327" />
+
+		<Point
+			coord="1111.237 3730.263" />
+
+		<Point
+			coord="1177.833 3764.789" />
+
+		<Point
+			coord="1227.071 3762.004" />
+
+		<Point
+			coord="1286.388 3727.839" />
+
+		<Point
+			coord="1313.595 3656.937" />
+
+		<Point
+			coord="1332.163 3604.741" />
+
+		<Point
+			coord="1380.480 3579.972" />
+
+		<Point
+			coord="1427.128 3612.095" />
+
+		<Point
+			coord="1486.811 3654.486" />
+
+		<Point
+			coord="1604.079 3720.914" />
+
+		<Point
+			coord="1680.112 3768.320" />
+
+		<Point
+			coord="1770.623 3810.383" />
+
+		<Point
+			coord="1842.507 3822.669" />
+
+		<Point
+			coord="1930.304 3827.437" />
+
+		<Point
+			coord="1990.821 3821.873" />
+
+		<Point
+			coord="2037.658 3771.505" />
+
+		<Point
+			coord="2059.028 3697.375" />
+
+		<Point
+			coord="2070.435 3635.425" />
+
+		<Point
+			coord="2108.575 3587.855" />
+
+		<Point
+			coord="2153.952 3554.990" />
+
+		<Point
+			coord="2206.254 3537.446" />
+
+		<Point
+			coord="2212.679 3485.964" />
+
+		<Point
+			coord="2205.863 3437.537" />
+
+		<Point
+			coord="2207.729 3382.663" />
+
+		<Point
+			coord="2211.841 3294.909" />
+
+		<Point
+			coord="2197.849 3226.926" />
+
+		<Point
+			coord="2181.164 3158.995" />
+
+		<Point
+			coord="2145.477 3122.599" />
+
+		<Point
+			coord="2111.195 3065.151" />
+
+		<Point
+			coord="2066.080 2977.753" />
+
+		<Point
+			coord="2049.278 2926.955" />
+
+		<Point
+			coord="2061.498 2873.730" />
+
+		<Point
+			coord="2076.231 2814.508" />
+
+		<Point
+			coord="2103.902 2779.731" />
+
+		<Point
+			coord="2151.823 2723.952" />
+
+		<Point
+			coord="2175.657 2665.775" />
+
+		<Point
+			coord="2205.232 2633.449" />
+
+		<Point
+			coord="2234.893 2630.809" />
+	</Path>
+
+	<Path
+		Name="RichCaravan_path0">
+		<Point
+			coord="481.562 1193.878" />
+
+		<Point
+			coord="554.946 1214.332" />
+
+		<Point
+			coord="636.668 1196.919" />
+
+		<Point
+			coord="689.675 1148.676" />
+
+		<Point
+			coord="731.046 1083.934" />
+
+		<Point
+			coord="734.321 1000.702" />
+
+		<Point
+			coord="749.680 914.790" />
+
+		<Point
+			coord="759.503 835.312" />
+
+		<Point
+			coord="792.002 722.894" />
+
+		<Point
+			coord="831.295 631.236" />
+
+		<Point
+			coord="874.156 563.867" />
+
+		<Point
+			coord="929.445 526.522" />
+
+		<Point
+			coord="992.665 505.219" />
+
+		<Point
+			coord="1059.974 491.992" />
+
+		<Point
+			coord="1141.592 501.874" />
+
+		<Point
+			coord="1222.481 525.269" />
+
+		<Point
+			coord="1327.100 560.925" />
+
+		<Point
+			coord="1503.013 537.020" />
+
+		<Point
+			coord="1625.586 515.463" />
+
+		<Point
+			coord="1709.117 507.573" />
+
+		<Point
+			coord="1789.314 484.805" />
+
+		<Point
+			coord="1847.614 548.623" />
+
+		<Point
+			coord="1876.141 614.067" />
+
+		<Point
+			coord="1869.163 682.134" />
+
+		<Point
+			coord="1890.294 759.230" />
+
+		<Point
+			coord="1911.971 825.074" />
+
+		<Point
+			coord="1958.972 864.232" />
+
+		<Point
+			coord="2002.722 875.647" />
+
+		<Point
+			coord="1984.296 925.381" />
+
+		<Point
+			coord="1947.744 991.354" />
+
+		<Point
+			coord="1905.750 1062.071" />
+
+		<Point
+			coord="1881.037 1166.799" />
+
+		<Point
+			coord="1884.755 1296.354" />
+
+		<Point
+			coord="1893.246 1390.763" />
+
+		<Point
+			coord="1912.974 1512.036" />
+
+		<Point
+			coord="1921.872 1595.072" />
+
+		<Point
+			coord="1908.754 1692.503" />
+
+		<Point
+			coord="1882.991 1779.029" />
+
+		<Point
+			coord="1799.419 1886.101" />
+
+		<Point
+			coord="1766.744 1959.359" />
+
+		<Point
+			coord="1743.421 2061.632" />
+
+		<Point
+			coord="1739.656 2193.225" />
+
+		<Point
+			coord="1750.208 2313.374" />
+
+		<Point
+			coord="1730.668 2413.996" />
+
+		<Point
+			coord="1714.308 2552.817" />
+
+		<Point
+			coord="1710.744 2634.010" />
+
+		<Point
+			coord="1726.231 2711.369" />
+
+		<Point
+			coord="1752.698 2819.865" />
+
+		<Point
+			coord="1764.530 2863.011" />
+
+		<Point
+			coord="1825.395 2930.277" />
+
+		<Point
+			coord="1903.050 3007.365" />
+
+		<Point
+			coord="1967.995 3054.070" />
+
+		<Point
+			coord="2031.911 3084.689" />
+
+		<Point
+			coord="2117.464 3100.786" />
+
+		<Point
+			coord="2176.848 3169.408" />
+
+		<Point
+			coord="2204.122 3262.353" />
+
+		<Point
+			coord="2210.097 3373.590" />
+
+		<Point
+			coord="2209.585 3474.466" />
+
+		<Point
+			coord="2219.511 3533.708" />
+
+		<Point
+			coord="2279.059 3523.870" />
+
+		<Point
+			coord="2457.315 3514.961" />
+
+		<Point
+			coord="2580.894 3505.029" />
+
+		<Point
+			coord="2690.722 3508.738" />
+
+		<Point
+			coord="2741.171 3543.749" />
+
+		<Point
+			coord="2793.143 3644.584" />
+
+		<Point
+			coord="2821.264 3683.210" />
+
+		<Point
+			coord="2885.698 3711.447" />
+
+		<Point
+			coord="2954.752 3695.429" />
+
+		<Point
+			coord="3014.452 3638.614" />
+
+		<Point
+			coord="3070.116 3593.128" />
+
+		<Point
+			coord="3149.663 3584.645" />
+
+		<Point
+			coord="3228.653 3592.240" />
+
+		<Point
+			coord="3291.057 3643.680" />
+
+		<Point
+			coord="3359.508 3694.482" />
+
+		<Point
+			coord="3355.130 3764.822" />
+
+		<Point
+			coord="3314.258 3819.644" />
+
+		<Point
+			coord="3296.693 3893.083" />
+	</Path>
+</Paths>

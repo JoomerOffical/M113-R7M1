@@ -2,7 +2,7 @@
 <World
 	name="Object670"
 	class="SgNode"
-	LastId="992747482">
+	LastId="992747629">
 	<Node
 		name="Object992744636"
 		class="SgAnimatedModelNode"
@@ -9379,7 +9379,7 @@
 		class="SgAnimatedModelNode"
 		org="3063.014 -43.996 487.582"
 		orgRel="1"
-		rot="0.0130 0.9194 -0.0811 0.3846"
+		rot="0.0441 0.9479 -0.0054 0.3153"
 		id="crag_desert_1"
 		ndmAction="0" />
 </World>

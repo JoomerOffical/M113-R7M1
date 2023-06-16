@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="985">
+	LastId="1005">
 	<TargetNamesForDestroy
 		Names="" />
 
@@ -523,13 +523,13 @@
 		Name="Breakable_Barrel_Explosive3212"
 		Belong="1001"
 		Prototype="Breakable_Barrel_Explosive3"
-		Pos="3365.542 342.156 281.897" />
+		Pos="3365.542 342.213 281.897" />
 
 	<Object
 		Name="Breakable_Barrel_Explosive3213"
 		Belong="1001"
 		Prototype="Breakable_Barrel_Explosive3"
-		Pos="3364.459 342.145 280.860" />
+		Pos="3364.459 342.163 280.860" />
 
 	<Object
 		Name="Breakable_Barrel_Explosive3214"
@@ -541,7 +541,7 @@
 		Name="Breakable_Barrel_Explosive3215"
 		Belong="1001"
 		Prototype="Breakable_Barrel_Explosive3"
-		Pos="3365.793 342.185 283.572" />
+		Pos="3365.793 342.236 283.572" />
 
 	<Object
 		Name="Breakable_Barrel_Explosive3216"
@@ -642,7 +642,7 @@
 		Name="MayakCity"
 		Belong="1101"
 		Prototype="r7m1_Village"
-		Pos="3381.197 342.149 324.013"
+		Pos="3381.197 341.836 324.013"
 		PointOfViewInInterface="5.000 20.000 5.000"
 		CaravanLocations=""
 		CaravanPaths=""
@@ -3356,7 +3356,7 @@
 		Prototype="r7m1_Monterrey"
 		Pos="320.724 331.035 2230.882"
 		Rot="0.000 -1.000 0.000 0.000"
-		PointOfViewInInterface="5.000 20.000 5.000"
+		PointOfViewInInterface="50.000 50.000 50.000"
 		CaravanLocations=""
 		CaravanPaths=""
 		TreasureLocations=""
@@ -3480,9 +3480,27 @@
 
 		<Parts />
 
-		<EntryPath />
+		<EntryPath>
+			<Point
+				Pos="326.582 2292.599" />
 
-		<ExitPath />
+			<Point
+				Pos="327.154 2226.890" />
+
+			<CameraPoint
+				Pos="50.000 50.000 50.000" />
+		</EntryPath>
+
+		<ExitPath>
+			<Point
+				Pos="327.154 2226.890" />
+
+			<Point
+				Pos="326.582 2292.599" />
+
+			<CameraPoint
+				Pos="50.000 50.000 50.000" />
+		</ExitPath>
 	</Object>
 
 	<Object
@@ -4402,7 +4420,7 @@
 
 	<Object
 		Name="staticAutoGun04870"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun04"
 		Pos="409.061 331.596 2358.140"
 		Rot="0.000 0.489 0.000 0.872">
@@ -4411,7 +4429,7 @@
 
 	<Object
 		Name="staticAutoGun04871"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun04"
 		Pos="392.875 328.378 2421.396"
 		Rot="-0.016 0.646 -0.011 0.763">
@@ -4420,7 +4438,7 @@
 
 	<Object
 		Name="staticAutoGun04872"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun04"
 		Pos="401.042 328.750 2381.641"
 		Rot="0.000 0.639 0.000 0.769">
@@ -4429,7 +4447,7 @@
 
 	<Object
 		Name="staticAutoGun04873"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun04"
 		Pos="374.920 335.940 2740.923"
 		Rot="0.000 0.509 0.000 0.861">
@@ -4438,7 +4456,7 @@
 
 	<Object
 		Name="staticAutoGun04874"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun04"
 		Pos="349.994 336.111 2771.592"
 		Rot="0.000 0.417 0.000 0.909">
@@ -4576,7 +4594,7 @@
 
 	<Object
 		Name="staticAutoGun02906"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun02"
 		Pos="3366.261 255.000 3248.452"
 		Rot="0.000 -0.718 0.000 0.696">
@@ -4585,7 +4603,7 @@
 
 	<Object
 		Name="staticAutoGun02907"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun02"
 		Pos="3363.666 255.000 3218.784"
 		Rot="-0.005 -0.695 0.005 0.719">
@@ -4905,7 +4923,7 @@
 
 	<Object
 		Name="staticAutoGun03979"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun03"
 		Pos="2189.717 225.044 2670.558">
 		<Parts />
@@ -4913,7 +4931,7 @@
 
 	<Object
 		Name="staticAutoGun03980"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun03"
 		Pos="2153.579 226.743 2671.759">
 		<Parts />
@@ -4921,7 +4939,7 @@
 
 	<Object
 		Name="staticAutoGun03981"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun03"
 		Pos="2166.509 217.747 2498.007">
 		<Parts />
@@ -4929,20 +4947,1332 @@
 
 	<Object
 		Name="staticAutoGun03982"
-		Belong="1001"
+		Belong="1101"
 		Prototype="staticAutoGun03"
 		Pos="2192.036 218.791 2499.178">
 		<Parts />
 	</Object>
 
 	<Object
+		Name="FirstBandit_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="3053.549 255.000 521.461"
+		Radius="100.000" />
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK986"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="2325.856 237.142 1439.260"
+		Rot="0.000 -0.581 0.000 0.814"
+		Skin="1">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK987"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="2085.003 235.121 2587.641"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK988"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="2229.749 229.880 2615.512"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK989"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="3374.719 261.181 3156.329"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK990"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="311.426 340.468 2260.330"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK991"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="341.064 340.548 2262.213"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK992"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="285.663 341.393 2365.694"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK993"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="296.187 357.111 2716.740"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="heavy_dot4_FLAGSHTOK994"
+		Belong="1100"
+		Prototype="heavy_dot4_FLAGSHTOK"
+		Pos="263.799 357.395 2506.210"
+		Skin="5">
+		<Parts />
+	</Object>
+
+	<Object
+		Name="DynKlad2_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1749.391 255.000 303.036"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad8_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1962.365 254.987 3361.349"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad1_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="3042.539 272.333 403.350"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad7_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1366.493 255.033 3797.512"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad6_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="317.130 255.000 3630.515"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad5_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1012.175 255.000 3149.618"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad4_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="685.706 295.867 2169.229"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad3_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="1065.790 278.878 1017.821"
+		Radius="15.000" />
+
+	<Object
+		Name="DynKlad9_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="3029.479 255.000 3779.583"
+		Radius="15.000" />
+
+	<Object
 		Belong="1100"
 		Prototype="vehicleRecollection" />
 
 	<Object
-		Name="FirstBandit_loc"
-		Belong="1001"
-		Prototype="genericLocation"
-		Pos="3053.549 255.000 521.461"
-		Radius="100.000" />
+		Name="InfectionZone1"
+		Belong="1105"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="IZG_Z1"
+		DropOutTimeOut="20.000"
+		MinTeamSchwartz="0"
+		MaxTeamSchwartz="6000">
+		<Polygon>
+			<Point
+				x="2002.670"
+				y="282.332" />
+
+			<Point
+				x="1609.117"
+				y="436.524" />
+
+			<Point
+				x="1685.157"
+				y="649.950" />
+
+			<Point
+				x="1817.252"
+				y="865.669" />
+
+			<Point
+				x="1745.526"
+				y="1007.962" />
+
+			<Point
+				x="1726.706"
+				y="1327.792" />
+
+			<Point
+				x="1799.906"
+				y="1569.997" />
+
+			<Point
+				x="1658.228"
+				y="1776.995" />
+
+			<Point
+				x="1609.914"
+				y="2000.587" />
+
+			<Point
+				x="1619.925"
+				y="2304.617" />
+
+			<Point
+				x="1623.391"
+				y="2726.587" />
+
+			<Point
+				x="1745.860"
+				y="2991.112" />
+
+			<Point
+				x="2133.215"
+				y="3164.826" />
+
+			<Point
+				x="2334.224"
+				y="3080.403" />
+
+			<Point
+				x="2414.691"
+				y="2891.197" />
+
+			<Point
+				x="2474.290"
+				y="2553.757" />
+
+			<Point
+				x="2385.389"
+				y="2277.875" />
+
+			<Point
+				x="2281.870"
+				y="2183.965" />
+
+			<Point
+				x="2059.976"
+				y="2001.722" />
+
+			<Point
+				x="1962.581"
+				y="1777.453" />
+
+			<Point
+				x="1926.701"
+				y="1239.922" />
+
+			<Point
+				x="2032.948"
+				y="908.426" />
+
+			<Point
+				x="2434.839"
+				y="898.816" />
+
+			<Point
+				x="2783.584"
+				y="690.634" />
+
+			<Point
+				x="2751.417"
+				y="240.304" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				name="Point88"
+				Paths=""
+				x="1908.252"
+				y="2171.891" />
+
+			<Point
+				name="Point98"
+				Paths=""
+				x="2294.960"
+				y="2224.607" />
+
+			<Point
+				name="Point90"
+				Paths=""
+				x="2392.521"
+				y="2854.359" />
+
+			<Point
+				name="Point93"
+				Paths=""
+				x="1884.563"
+				y="2887.894" />
+
+			<Point
+				name="Point94"
+				Paths=""
+				x="1857.813"
+				y="2436.362" />
+
+			<Point
+				name="Point39"
+				Paths=""
+				x="2254.399"
+				y="2345.807" />
+
+			<Point
+				name="Point14"
+				Paths=""
+				x="2333.132"
+				y="2462.808" />
+
+			<Point
+				name="Point96"
+				Paths=""
+				x="2384.846"
+				y="2639.546" />
+
+			<Point
+				name="Point72"
+				Paths=""
+				x="2217.981"
+				y="2763.730" />
+
+			<Point
+				name="Point76"
+				Paths=""
+				x="2118.979"
+				y="2888.117" />
+
+			<Point
+				name="Point50"
+				Paths=""
+				x="1912.708"
+				y="2713.626" />
+
+			<Point
+				name="Point30"
+				Paths=""
+				x="1874.501"
+				y="2578.821" />
+
+			<Point
+				name="Point32"
+				Paths=""
+				x="1811.950"
+				y="2689.838" />
+
+			<Point
+				name="Point12"
+				Paths=""
+				x="1701.299"
+				y="2778.909" />
+
+			<Point
+				name="Point62"
+				Paths=""
+				x="1665.804"
+				y="2540.448" />
+
+			<Point
+				name="Point37"
+				Paths=""
+				x="1788.995"
+				y="2522.127" />
+
+			<Point
+				name="Point60"
+				Paths=""
+				x="1681.428"
+				y="2335.230" />
+
+			<Point
+				name="Point83"
+				Paths=""
+				x="1813.866"
+				y="2338.975" />
+
+			<Point
+				name="Point26"
+				Paths=""
+				x="1830.240"
+				y="2171.111" />
+
+			<Point
+				name="Point52"
+				Paths=""
+				x="1903.869"
+				y="2285.746" />
+
+			<Point
+				name="Point0"
+				Paths=""
+				x="1674.701"
+				y="2232.776" />
+
+			<Point
+				name="Point97"
+				Paths=""
+				x="1695.122"
+				y="2044.063" />
+
+			<Point
+				name="Point58"
+				Paths=""
+				x="1882.633"
+				y="2052.126" />
+
+			<Point
+				name="Point86"
+				Paths=""
+				x="1692.175"
+				y="1928.762" />
+
+			<Point
+				name="Point29"
+				Paths=""
+				x="1789.636"
+				y="1787.312" />
+
+			<Point
+				name="Point64"
+				Paths=""
+				x="1869.370"
+				y="1596.045" />
+
+			<Point
+				name="Point54"
+				Paths=""
+				x="1839.952"
+				y="1416.551" />
+
+			<Point
+				name="Point95"
+				Paths=""
+				x="1812.825"
+				y="1309.535" />
+
+			<Point
+				name="Point7"
+				Paths=""
+				x="1796.271"
+				y="1196.025" />
+
+			<Point
+				name="Point9"
+				Paths=""
+				x="1838.528"
+				y="944.087" />
+
+			<Point
+				name="Point56"
+				Paths=""
+				x="1774.528"
+				y="637.539" />
+
+			<Point
+				name="Point4"
+				Paths=""
+				x="1743.103"
+				y="428.745" />
+
+			<Point
+				name="Point77"
+				Paths=""
+				x="2092.703"
+				y="308.784" />
+
+			<Point
+				name="Point92"
+				Paths=""
+				x="1884.237"
+				y="491.540" />
+
+			<Point
+				name="Point24"
+				Paths=""
+				x="2388.155"
+				y="284.211" />
+
+			<Point
+				name="Point2"
+				Paths=""
+				x="2581.595"
+				y="285.746" />
+
+			<Point
+				name="Point71"
+				Paths=""
+				x="2697.170"
+				y="326.642" />
+
+			<Point
+				name="Point47"
+				Paths=""
+				x="2731.024"
+				y="602.347" />
+
+			<Point
+				name="Point65"
+				Paths=""
+				x="2217.167"
+				y="395.515" />
+
+			<Point
+				name="Point5"
+				Paths=""
+				x="2449.784"
+				y="372.984" />
+
+			<Point
+				name="Point85"
+				Paths=""
+				x="2590.188"
+				y="420.287" />
+
+			<Point
+				name="Point49"
+				Paths=""
+				x="1931.957"
+				y="1150.742" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="InfectionZone2"
+		Belong="1105"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="IZG_Z1"
+		DropOutTimeOut="20.000"
+		MinTeamSchwartz="0"
+		MaxTeamSchwartz="6000">
+		<Polygon>
+			<Point
+				x="3242.916"
+				y="3065.942" />
+
+			<Point
+				x="2968.240"
+				y="3083.514" />
+
+			<Point
+				x="2750.445"
+				y="3153.118" />
+
+			<Point
+				x="2601.084"
+				y="3407.432" />
+
+			<Point
+				x="2594.003"
+				y="3630.148" />
+
+			<Point
+				x="2725.258"
+				y="3657.136" />
+
+			<Point
+				x="2790.066"
+				y="3777.373" />
+
+			<Point
+				x="2918.146"
+				y="3809.652" />
+
+			<Point
+				x="3069.333"
+				y="3753.266" />
+
+			<Point
+				x="3163.626"
+				y="3621.476" />
+
+			<Point
+				x="3256.143"
+				y="3509.927" />
+
+			<Point
+				x="3416.467"
+				y="3342.143" />
+
+			<Point
+				x="3643.482"
+				y="3197.703" />
+
+			<Point
+				x="3836.695"
+				y="3188.967" />
+
+			<Point
+				x="3871.202"
+				y="3084.451" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				name="Point79"
+				Paths=""
+				x="3272.199"
+				y="3364.178" />
+
+			<Point
+				name="Point72"
+				Paths=""
+				x="3054.475"
+				y="3442.972" />
+
+			<Point
+				name="Point28"
+				Paths=""
+				x="2973.638"
+				y="3545.175" />
+
+			<Point
+				name="Point62"
+				Paths=""
+				x="2838.997"
+				y="3499.191" />
+
+			<Point
+				name="Point61"
+				Paths=""
+				x="2951.618"
+				y="3343.611" />
+
+			<Point
+				name="Point10"
+				Paths=""
+				x="2876.440"
+				y="3179.833" />
+
+			<Point
+				name="Point0"
+				Paths=""
+				x="2772.167"
+				y="3309.271" />
+
+			<Point
+				name="Point40"
+				Paths=""
+				x="2734.261"
+				y="3422.027" />
+
+			<Point
+				name="Point58"
+				Paths=""
+				x="2917.831"
+				y="3408.851" />
+
+			<Point
+				name="Point96"
+				Paths=""
+				x="3023.870"
+				y="3296.524" />
+
+			<Point
+				name="Point98"
+				Paths=""
+				x="3119.530"
+				y="3158.683" />
+
+			<Point
+				name="Point12"
+				Paths=""
+				x="3151.419"
+				y="3254.321" />
+
+			<Point
+				name="Point51"
+				Paths=""
+				x="3068.003"
+				y="3681.444" />
+
+			<Point
+				name="Point30"
+				Paths=""
+				x="2709.809"
+				y="3591.022" />
+
+			<Point
+				name="Point55"
+				Paths=""
+				x="2886.643"
+				y="3757.357" />
+		</DropOut>
+	</Object>
+
+	<Object
+		Name="InfectionZone3"
+		Belong="1105"
+		Prototype="InfectionZone"
+		InfectionTeamPrototypeName="IZG_Z2"
+		DropOutTimeOut="20.000"
+		MinTeamSchwartz="0"
+		MaxTeamSchwartz="6000">
+		<Polygon>
+			<Point
+				x="2130.420"
+				y="3206.673" />
+
+			<Point
+				x="2344.258"
+				y="3106.862" />
+
+			<Point
+				x="2287.485"
+				y="3265.871" />
+
+			<Point
+				x="2272.221"
+				y="3462.460" />
+
+			<Point
+				x="2267.817"
+				y="3691.806" />
+
+			<Point
+				x="2161.760"
+				y="3817.895" />
+
+			<Point
+				x="2010.929"
+				y="3867.295" />
+
+			<Point
+				x="1759.650"
+				y="3841.766" />
+
+			<Point
+				x="1541.901"
+				y="3771.146" />
+
+			<Point
+				x="1386.885"
+				y="3707.018" />
+
+			<Point
+				x="1401.699"
+				y="3837.324" />
+
+			<Point
+				x="1173.249"
+				y="3834.540" />
+
+			<Point
+				x="919.149"
+				y="3773.042" />
+
+			<Point
+				x="644.089"
+				y="3786.070" />
+
+			<Point
+				x="389.885"
+				y="3779.236" />
+
+			<Point
+				x="256.496"
+				y="3637.382" />
+
+			<Point
+				x="218.919"
+				y="3395.407" />
+
+			<Point
+				x="218.696"
+				y="3180.201" />
+
+			<Point
+				x="307.791"
+				y="2959.963" />
+
+			<Point
+				x="434.476"
+				y="2811.140" />
+
+			<Point
+				x="493.073"
+				y="2545.454" />
+
+			<Point
+				x="490.884"
+				y="2198.026" />
+
+			<Point
+				x="560.456"
+				y="1937.808" />
+
+			<Point
+				x="637.917"
+				y="1704.172" />
+
+			<Point
+				x="730.032"
+				y="1463.745" />
+
+			<Point
+				x="672.532"
+				y="1251.774" />
+
+			<Point
+				x="608.243"
+				y="1116.333" />
+
+			<Point
+				x="645.816"
+				y="893.640" />
+
+			<Point
+				x="658.788"
+				y="625.576" />
+
+			<Point
+				x="796.468"
+				y="469.188" />
+
+			<Point
+				x="958.920"
+				y="380.826" />
+
+			<Point
+				x="1126.857"
+				y="302.367" />
+
+			<Point
+				x="1267.133"
+				y="446.685" />
+
+			<Point
+				x="1360.789"
+				y="591.263" />
+
+			<Point
+				x="1322.967"
+				y="835.370" />
+
+			<Point
+				x="1195.627"
+				y="1037.462" />
+
+			<Point
+				x="1040.831"
+				y="1031.073" />
+
+			<Point
+				x="906.374"
+				y="1070.975" />
+
+			<Point
+				x="772.413"
+				y="1150.680" />
+
+			<Point
+				x="830.308"
+				y="1342.021" />
+
+			<Point
+				x="834.626"
+				y="1565.028" />
+
+			<Point
+				x="741.770"
+				y="1768.877" />
+
+			<Point
+				x="707.302"
+				y="1999.005" />
+
+			<Point
+				x="619.890"
+				y="2194.008" />
+
+			<Point
+				x="603.819"
+				y="2424.703" />
+
+			<Point
+				x="590.840"
+				y="2639.175" />
+
+			<Point
+				x="600.054"
+				y="2844.796" />
+
+			<Point
+				x="663.333"
+				y="2968.779" />
+
+			<Point
+				x="872.350"
+				y="3011.102" />
+
+			<Point
+				x="944.841"
+				y="3131.624" />
+
+			<Point
+				x="965.190"
+				y="3329.013" />
+
+			<Point
+				x="948.150"
+				y="3501.530" />
+
+			<Point
+				x="1086.010"
+				y="3586.527" />
+
+			<Point
+				x="1169.193"
+				y="3501.578" />
+
+			<Point
+				x="1351.435"
+				y="3429.739" />
+
+			<Point
+				x="1472.153"
+				y="3471.023" />
+
+			<Point
+				x="1585.885"
+				y="3545.698" />
+
+			<Point
+				x="1719.525"
+				y="3611.625" />
+
+			<Point
+				x="1864.294"
+				y="3609.025" />
+
+			<Point
+				x="2017.619"
+				y="3540.951" />
+
+			<Point
+				x="2011.479"
+				y="3367.196" />
+
+			<Point
+				x="1976.094"
+				y="3161.181" />
+		</Polygon>
+
+		<DropOut>
+			<Point
+				name="Point94"
+				Paths=""
+				x="2013.458"
+				y="3223.286" />
+
+			<Point
+				name="Point68"
+				Paths=""
+				x="2244.377"
+				y="3232.614" />
+
+			<Point
+				name="Point65"
+				Paths=""
+				x="2116.262"
+				y="3419.452" />
+
+			<Point
+				name="Point55"
+				Paths=""
+				x="2231.256"
+				y="3624.017" />
+
+			<Point
+				name="Point47"
+				Paths=""
+				x="2103.209"
+				y="3760.811" />
+
+			<Point
+				name="Point38"
+				Paths=""
+				x="1993.254"
+				y="3696.944" />
+
+			<Point
+				name="Point29"
+				Paths=""
+				x="1345.240"
+				y="3551.103" />
+
+			<Point
+				name="Point32"
+				Paths=""
+				x="1372.895"
+				y="3631.568" />
+
+			<Point
+				name="Point17"
+				Paths=""
+				x="1372.055"
+				y="3807.720" />
+
+			<Point
+				name="Point16"
+				Paths=""
+				x="1067.432"
+				y="3618.882" />
+
+			<Point
+				name="Point27"
+				Paths=""
+				x="750.716"
+				y="3586.499" />
+
+			<Point
+				name="Point12"
+				Paths=""
+				x="857.150"
+				y="3720.521" />
+
+			<Point
+				name="Point36"
+				Paths=""
+				x="757.888"
+				y="3456.035" />
+
+			<Point
+				name="Point30"
+				Paths=""
+				x="694.524"
+				y="3373.149" />
+
+			<Point
+				name="Point40"
+				Paths=""
+				x="546.860"
+				y="3414.479" />
+
+			<Point
+				name="Point99"
+				Paths=""
+				x="609.910"
+				y="3514.875" />
+
+			<Point
+				name="Point56"
+				Paths=""
+				x="649.627"
+				y="3450.088" />
+
+			<Point
+				name="Point4"
+				Paths=""
+				x="649.693"
+				y="3646.885" />
+
+			<Point
+				name="Point31"
+				Paths=""
+				x="538.078"
+				y="3582.888" />
+
+			<Point
+				name="Point7"
+				Paths=""
+				x="467.209"
+				y="3726.949" />
+
+			<Point
+				name="Point90"
+				Paths=""
+				x="315.229"
+				y="3612.762" />
+
+			<Point
+				name="Point44"
+				Paths=""
+				x="303.711"
+				y="3393.768" />
+
+			<Point
+				name="Point71"
+				Paths=""
+				x="302.377"
+				y="3248.561" />
+
+			<Point
+				name="Point74"
+				Paths=""
+				x="461.159"
+				y="3213.012" />
+
+			<Point
+				name="Point91"
+				Paths=""
+				x="626.290"
+				y="3102.612" />
+
+			<Point
+				name="Point24"
+				Paths=""
+				x="755.931"
+				y="3201.711" />
+
+			<Point
+				name="Point23"
+				Paths=""
+				x="606.671"
+				y="3287.509" />
+
+			<Point
+				name="Point5"
+				Paths=""
+				x="793.206"
+				y="3337.436" />
+
+			<Point
+				name="Point98"
+				Paths=""
+				x="666.784"
+				y="3199.196" />
+
+			<Point
+				name="Point0"
+				Paths=""
+				x="508.413"
+				y="3287.751" />
+
+			<Point
+				name="Point45"
+				Paths=""
+				x="879.788"
+				y="3076.439" />
+
+			<Point
+				name="Point3"
+				Paths=""
+				x="482.437"
+				y="3040.958" />
+
+			<Point
+				name="Point6"
+				Paths=""
+				x="312.767"
+				y="3134.128" />
+
+			<Point
+				name="Point89"
+				Paths=""
+				x="371.763"
+				y="3436.719" />
+
+			<Point
+				name="Point75"
+				Paths=""
+				x="632.163"
+				y="2106.814" />
+
+			<Point
+				name="Point41"
+				Paths=""
+				x="680.051"
+				y="1856.418" />
+
+			<Point
+				name="Point54"
+				Paths=""
+				x="716.909"
+				y="1582.080" />
+
+			<Point
+				name="Point43"
+				Paths=""
+				x="603.519"
+				y="1911.037" />
+
+			<Point
+				name="Point18"
+				Paths=""
+				x="615.023"
+				y="2068.530" />
+
+			<Point
+				name="Point85"
+				Paths=""
+				x="730.002"
+				y="1345.678" />
+
+			<Point
+				name="Point37"
+				Paths=""
+				x="808.200"
+				y="1361.267" />
+
+			<Point
+				name="Point15"
+				Paths=""
+				x="708.325"
+				y="1251.094" />
+
+			<Point
+				name="Point67"
+				Paths=""
+				x="680.594"
+				y="1090.595" />
+
+			<Point
+				name="Point20"
+				Paths=""
+				x="822.771"
+				y="1052.992" />
+
+			<Point
+				name="Point72"
+				Paths=""
+				x="925.464"
+				y="1039.882" />
+
+			<Point
+				name="Point35"
+				Paths=""
+				x="1117.947"
+				y="956.830" />
+
+			<Point
+				name="Point93"
+				Paths=""
+				x="1050.208"
+				y="798.840" />
+
+			<Point
+				name="Point76"
+				Paths=""
+				x="897.849"
+				y="874.695" />
+
+			<Point
+				name="Point57"
+				Paths=""
+				x="811.012"
+				y="936.060" />
+
+			<Point
+				name="Point82"
+				Paths=""
+				x="905.897"
+				y="976.327" />
+
+			<Point
+				name="Point14"
+				Paths=""
+				x="687.626"
+				y="1033.034" />
+
+			<Point
+				name="Point48"
+				Paths=""
+				x="878.462"
+				y="694.777" />
+
+			<Point
+				name="Point92"
+				Paths=""
+				x="986.605"
+				y="903.810" />
+
+			<Point
+				name="Point59"
+				Paths=""
+				x="1144.528"
+				y="840.254" />
+
+			<Point
+				name="Point25"
+				Paths=""
+				x="1190.182"
+				y="683.572" />
+
+			<Point
+				name="Point61"
+				Paths=""
+				x="1067.812"
+				y="595.666" />
+
+			<Point
+				name="Point10"
+				Paths=""
+				x="1121.374"
+				y="744.549" />
+
+			<Point
+				name="Point21"
+				Paths=""
+				x="950.895"
+				y="630.099" />
+
+			<Point
+				name="Point52"
+				Paths=""
+				x="1079.447"
+				y="422.158" />
+
+			<Point
+				name="Point97"
+				Paths=""
+				x="807.988"
+				y="537.415" />
+
+			<Point
+				name="Point83"
+				Paths=""
+				x="960.088"
+				y="468.848" />
+
+			<Point
+				name="Point33"
+				Paths=""
+				x="736.716"
+				y="665.328" />
+
+			<Point
+				name="Point11"
+				Paths=""
+				x="972.812"
+				y="794.713" />
+		</DropOut>
+	</Object>
 </DynamicScene>
