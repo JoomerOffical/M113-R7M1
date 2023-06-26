@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="1005">
+	LastId="1036">
 	<TargetNamesForDestroy
-		Names="" />
+		Names="DynQEnemy01 DynQEnemy02 DynQEnemy03 DynQEnemy04 DynQEnemy05 DynQEnemy06 DynQEnemy07 DynQEnemy08 DynQEnemy09 DynQEnemy10 DynQEnemy11 DynQEnemy12 DynQEnemy13 DynQEnemy14 DynQEnemy15 DynQEnemy16 DynQEnemy17 DynQEnemy18 DynQEnemy19 DynQEnemy20 DynQEnemy21 DynQEnemy22 DynQEnemy23 DynQEnemy24 DynQEnemy25" />
 
 	<AllowedWaresForDrop
-		Prototypes="" />
+		Prototypes="tobacco firewood fuel scrap_metal machinery" />
 
 	<Object
 		Name="Player1"
@@ -246,7 +246,7 @@
 		Name="lamppost182"
 		Belong="1001"
 		Prototype="lamppost1"
-		Pos="3222.591 255.042 3571.201"
+		Pos="3222.591 255.548 3571.201"
 		Rot="0.000 -0.167 0.000 0.986" />
 
 	<Object
@@ -325,7 +325,7 @@
 		Name="r4_desert_palma_1_dyn130"
 		Belong="1001"
 		Prototype="r4_desert_palma_1_dyn"
-		Pos="2597.595 248.009 3454.962" />
+		Pos="2597.595 249.199 3454.962" />
 
 	<Object
 		Name="r4_desert_palma_1_dyn131"
@@ -668,6 +668,13 @@
 			Name="MayakCity_Workshop"
 			Belong="1101"
 			Prototype="workshop" />
+
+		<Object
+			Name="MayakCity_defend"
+			Belong="1101"
+			Prototype="location"
+			Pos="3397.995 341.513 327.626"
+			Radius="50.000" />
 
 		<Object
 			Name="MayakCity_deploy"
@@ -1751,12 +1758,12 @@
 		Prototype="r7m1_Village"
 		Pos="2133.250 220.280 2580.011"
 		PointOfViewInInterface="5.000 20.000 5.000"
-		CaravanLocations=""
-		CaravanPaths=""
-		TreasureLocations=""
-		ReachLocations=""
-		DestroyLocations=""
-		IsSellingDrugs="1"
+		CaravanLocations="Monterrey_enter Kristy_enter"
+		CaravanPaths="Maramotos_Monterrey_DQC Maramotos_Kristy_DQC"
+		TreasureLocations="DynKlad1_loc DynKlad2_loc DynKlad8_loc"
+		ReachLocations="Monterrey Kristy PetrolStationr7m1_1 PetrolStationr7m1_2"
+		DestroyLocations="InfectionZone3"
+		IsSellingDrugs="0"
 		IsBuyingDrugs="1">
 		<Object
 			Name="MaraMotos_Shop"
@@ -1804,25 +1811,28 @@
 			Prototype="workshop" />
 
 		<Object
+			Name="MaraMotos_defend"
+			Belong="1101"
+			Prototype="location"
+			Pos="2103.543 221.728 2585.463"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="20.000" />
+
+		<Object
 			Name="MaraMotos_deploy"
 			Belong="1101"
 			Prototype="location"
-			Pos="2116.613 221.721 2590.794"
-			Radius="40.000" />
+			Pos="2216.035 220.049 2519.130"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="10.000" />
 
 		<Object
 			Name="MaraMotos_enter"
 			Belong="1101"
 			Prototype="location"
-			Pos="2116.746 221.729 2590.945"
-			Radius="40.000" />
-
-		<Object
-			Name="MaraMotos_caravan"
-			Belong="1101"
-			Prototype="location"
-			Pos="2217.018 220.127 2521.160"
-			Radius="10.000" />
+			Pos="2103.543 221.728 2585.463"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="20.000" />
 
 		<Parts />
 
@@ -1837,13 +1847,13 @@
 		Prototype="r7m1_Village"
 		Pos="3446.099 255.509 3210.326"
 		PointOfViewInInterface="5.000 20.000 5.000"
-		CaravanLocations=""
-		CaravanPaths=""
-		TreasureLocations=""
-		ReachLocations=""
-		DestroyLocations=""
-		IsSellingDrugs="1"
-		IsBuyingDrugs="1">
+		CaravanLocations="Monterrey_enter MaraMotos_enter"
+		CaravanPaths="Kristy_Monterrey_DQC Kristy_Maramotos_DQC"
+		TreasureLocations="DynKlad6_loc DynKlad7_loc DynKlad9_loc"
+		ReachLocations="Monterrey MaraMotos PetrolStationr7m1_1 PetrolStationr7m1_2"
+		DestroyLocations="InfectionZone3"
+		IsSellingDrugs="0"
+		IsBuyingDrugs="0">
 		<Object
 			Name="Kristy_Shop"
 			Belong="1101"
@@ -1878,25 +1888,28 @@
 		</Object>
 
 		<Object
+			Name="Kristy_defend"
+			Belong="1101"
+			Prototype="location"
+			Pos="3409.224 255.000 3265.104"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="30.000" />
+
+		<Object
 			Name="Kristy_deploy"
 			Belong="1101"
 			Prototype="location"
-			Pos="3429.117 255.000 3220.462"
-			Radius="50.000" />
+			Pos="3427.194 255.000 3170.490"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="10.000" />
 
 		<Object
 			Name="Kristy_enter"
 			Belong="1101"
 			Prototype="location"
-			Pos="3429.487 255.000 3220.409"
-			Radius="50.000" />
-
-		<Object
-			Name="Kristy_caravan"
-			Belong="1101"
-			Prototype="location"
-			Pos="3399.165 255.000 3267.705"
-			Radius="20.000" />
+			Pos="3409.224 255.000 3265.104"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="30.000" />
 
 		<Parts />
 
@@ -2244,13 +2257,13 @@
 		Name="r4_desert_palma_2_dyn510"
 		Belong="1001"
 		Prototype="r4_desert_palma_2_dyn"
-		Pos="1819.546 255.000 1135.036" />
+		Pos="1819.546 255.194 1135.036" />
 
 	<Object
 		Name="r4_desert_palma_2_dyn511"
 		Belong="1001"
 		Prototype="r4_desert_palma_2_dyn"
-		Pos="1813.974 251.837 1439.151" />
+		Pos="1813.974 262.171 1439.151" />
 
 	<Object
 		Name="r4_desert_palma_2_dyn512"
@@ -2382,7 +2395,7 @@
 		Name="r4_desert_palma_1_dyn533"
 		Belong="1001"
 		Prototype="r4_desert_palma_1_dyn"
-		Pos="1858.491 255.000 1492.589" />
+		Pos="1858.491 258.370 1492.589" />
 
 	<Object
 		Name="r4_desert_palma_1_dyn534"
@@ -2838,7 +2851,7 @@
 		Name="r4_desert_palma_3_dyn610"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1836.682 255.000 1742.013" />
+		Pos="1836.682 262.380 1742.013" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn611"
@@ -2850,7 +2863,7 @@
 		Name="r4_desert_palma_3_dyn612"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1835.989 255.000 1334.866" />
+		Pos="1835.989 255.081 1334.866" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn613"
@@ -2862,7 +2875,7 @@
 		Name="r4_desert_palma_3_dyn614"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1833.246 255.000 998.573" />
+		Pos="1833.246 263.327 998.573" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn615"
@@ -3168,7 +3181,7 @@
 		Name="r4_desert_palma_2_dyn668"
 		Belong="1001"
 		Prototype="r4_desert_palma_2_dyn"
-		Pos="1863.479 255.000 1575.345" />
+		Pos="1863.479 257.375 1575.345" />
 
 	<Object
 		Name="r4_desert_palma_2_dyn669"
@@ -3252,7 +3265,7 @@
 		Name="r4_desert_palma_3_dyn682"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1848.528 255.000 1647.076" />
+		Pos="1848.528 258.660 1647.076" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn683"
@@ -3270,13 +3283,13 @@
 		Name="r4_desert_palma_3_dyn685"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1803.914 255.000 1201.367" />
+		Pos="1803.914 260.060 1201.367" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn686"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1794.036 254.844 1363.911" />
+		Pos="1794.036 261.184 1363.911" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn687"
@@ -3288,7 +3301,7 @@
 		Name="r4_desert_palma_3_dyn688"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1799.542 254.937 1046.091" />
+		Pos="1799.542 266.073 1046.091" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn689"
@@ -3300,7 +3313,7 @@
 		Name="r4_desert_palma_3_dyn690"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1881.694 255.000 954.966" />
+		Pos="1881.694 256.878 954.966" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn691"
@@ -3357,13 +3370,13 @@
 		Pos="320.724 331.035 2230.882"
 		Rot="0.000 -1.000 0.000 0.000"
 		PointOfViewInInterface="50.000 50.000 50.000"
-		CaravanLocations=""
-		CaravanPaths=""
-		TreasureLocations=""
-		ReachLocations=""
-		DestroyLocations=""
+		CaravanLocations="Kristy_enter MaraMotos_enter"
+		CaravanPaths="Monterrey_Kristy_DQC Monterrey_Maramotos_DQC"
+		TreasureLocations="DynKlad3_loc DynKlad4_loc DynKlad5_loc"
+		ReachLocations="MaraMotos Kristy PetrolStationr7m1_1 PetrolStationr7m1_2"
+		DestroyLocations="InfectionZone1 InfectionZone2"
 		IsSellingDrugs="1"
-		IsBuyingDrugs="1">
+		IsBuyingDrugs="0">
 		<Object
 			Name="Monterrey_Shop"
 			Belong="1101"
@@ -3458,25 +3471,28 @@
 		</Object>
 
 		<Object
+			Name="Monterrey_defend"
+			Belong="1101"
+			Prototype="location"
+			Pos="326.194 331.162 2258.174"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="40.000" />
+
+		<Object
 			Name="Monterrey_deploy"
 			Belong="1101"
 			Prototype="location"
-			Pos="327.412 331.231 2250.114"
-			Radius="30.000" />
+			Pos="292.668 334.570 2385.876"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="10.000" />
 
 		<Object
 			Name="Monterrey_enter"
 			Belong="1101"
 			Prototype="location"
-			Pos="327.249 331.225 2250.040"
-			Radius="30.000" />
-
-		<Object
-			Name="Monterrey_caravan"
-			Belong="1101"
-			Prototype="location"
-			Pos="294.524 334.523 2388.095"
-			Radius="10.000" />
+			Pos="326.194 331.162 2258.174"
+			Rot="0.000 -0.996 0.000 0.089"
+			Radius="40.000" />
 
 		<Parts />
 
@@ -3549,7 +3565,7 @@
 		Name="r4_desert_palma_3_dyn708"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1841.433 254.537 921.424" />
+		Pos="1841.433 259.493 921.424" />
 
 	<Object
 		Name="r4_desert_palma_1_dyn709"
@@ -4281,8 +4297,8 @@
 		Name="Breakable_Poster1827"
 		Belong="1001"
 		Prototype="Breakable_Poster1"
-		Pos="302.575 329.943 2275.569"
-		Rot="0.000 -0.712 0.000 0.702" />
+		Pos="284.955 332.569 2313.171"
+		Rot="0.000 -0.090 0.000 0.996" />
 
 	<Object
 		Name="Breakable_Barrel_Explosive2828"
@@ -4376,7 +4392,7 @@
 		Name="pack_breakable852"
 		Belong="1001"
 		Prototype="pack_breakable"
-		Pos="402.263 256.308 3506.552" />
+		Pos="353.460 257.777 3524.486" />
 
 	<Object
 		Name="BrokenModel853"
@@ -4395,14 +4411,16 @@
 		Belong="1100"
 		Prototype="genericLocation"
 		Pos="3323.987 255.000 3672.087"
-		Radius="100.000" />
+		Radius="100.000"
+		PassageAddress="sin FromR7M1" />
 
 	<Object
 		Name="FromR7M2"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="3224.083 253.666 3599.696"
-		Radius="10.000" />
+		Pos="3224.083 255.701 3599.696"
+		Radius="10.000"
+		ExitLocation="ToR7M2" />
 
 	<Object
 		Name="FromR7M3"
@@ -5001,7 +5019,7 @@
 		Name="heavy_dot4_FLAGSHTOK990"
 		Belong="1100"
 		Prototype="heavy_dot4_FLAGSHTOK"
-		Pos="311.426 340.468 2260.330"
+		Pos="311.134 340.468 2260.342"
 		Skin="5">
 		<Parts />
 	</Object>
@@ -5037,7 +5055,7 @@
 		Name="heavy_dot4_FLAGSHTOK994"
 		Belong="1100"
 		Prototype="heavy_dot4_FLAGSHTOK"
-		Pos="263.799 357.395 2506.210"
+		Pos="263.799 358.526 2506.210"
 		Skin="5">
 		<Parts />
 	</Object>
@@ -5053,7 +5071,7 @@
 		Name="DynKlad8_loc"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="1962.365 254.987 3361.349"
+		Pos="2042.853 255.000 3358.265"
 		Radius="15.000" />
 
 	<Object
@@ -5074,7 +5092,7 @@
 		Name="DynKlad6_loc"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="317.130 255.000 3630.515"
+		Pos="270.641 261.012 3305.584"
 		Radius="15.000" />
 
 	<Object
@@ -5088,7 +5106,7 @@
 		Name="DynKlad4_loc"
 		Belong="1100"
 		Prototype="genericLocation"
-		Pos="685.706 295.867 2169.229"
+		Pos="681.514 294.008 2136.308"
 		Radius="15.000" />
 
 	<Object
@@ -5106,15 +5124,10 @@
 		Radius="15.000" />
 
 	<Object
-		Belong="1100"
-		Prototype="vehicleRecollection" />
-
-	<Object
 		Name="InfectionZone1"
 		Belong="1105"
 		Prototype="InfectionZone"
 		InfectionTeamPrototypeName="IZG_Z1"
-		DropOutTimeOut="20.000"
 		MinTeamSchwartz="0"
 		MaxTeamSchwartz="6000">
 		<Polygon>
@@ -5367,44 +5380,44 @@
 			<Point
 				name="Point29"
 				Paths=""
-				x="1789.636"
-				y="1787.312" />
+				x="1781.941"
+				y="1813.925" />
 
 			<Point
 				name="Point64"
 				Paths=""
-				x="1869.370"
-				y="1596.045" />
+				x="1885.065"
+				y="1621.343" />
 
 			<Point
 				name="Point54"
 				Paths=""
-				x="1839.952"
-				y="1416.551" />
+				x="1863.869"
+				y="1442.358" />
 
 			<Point
 				name="Point95"
 				Paths=""
-				x="1812.825"
-				y="1309.535" />
+				x="1841.203"
+				y="1303.010" />
 
 			<Point
 				name="Point7"
 				Paths=""
-				x="1796.271"
-				y="1196.025" />
+				x="1837.648"
+				y="1185.574" />
 
 			<Point
 				name="Point9"
 				Paths=""
-				x="1838.528"
-				y="944.087" />
+				x="1922.891"
+				y="930.154" />
 
 			<Point
 				name="Point56"
 				Paths=""
-				x="1774.528"
-				y="637.539" />
+				x="1808.349"
+				y="602.755" />
 
 			<Point
 				name="Point4"
@@ -5479,7 +5492,6 @@
 		Belong="1105"
 		Prototype="InfectionZone"
 		InfectionTeamPrototypeName="IZG_Z1"
-		DropOutTimeOut="20.000"
 		MinTeamSchwartz="0"
 		MaxTeamSchwartz="6000">
 		<Polygon>
@@ -5642,7 +5654,6 @@
 		Belong="1105"
 		Prototype="InfectionZone"
 		InfectionTeamPrototypeName="IZG_Z2"
-		DropOutTimeOut="20.000"
 		MinTeamSchwartz="0"
 		MaxTeamSchwartz="6000">
 		<Polygon>
@@ -6275,4 +6286,238 @@
 				y="794.713" />
 		</DropOut>
 	</Object>
+
+	<Object
+		Name="chest1"
+		Belong="1001"
+		Prototype="chest"
+		Pos="331.233 255.000 3619.539">
+		<Object
+			Flags="16"
+			Belong="1001"
+			Prototype="specter01" />
+	</Object>
+
+	<Object
+		Name="chest2"
+		Belong="1001"
+		Prototype="chest"
+		Pos="2514.465 228.121 2636.835">
+		<Object
+			Flags="16"
+			Belong="1001"
+			Prototype="tobacco" />
+	</Object>
+
+	<Object
+		Name="chest3"
+		Belong="1001"
+		Prototype="chest"
+		Pos="2302.793 225.813 1469.414">
+		<Object
+			Flags="16"
+			Belong="1001"
+			Prototype="firewood" />
+	</Object>
+
+	<Object
+		Name="chest4"
+		Belong="1001"
+		Prototype="chest"
+		Pos="3771.201 239.047 3109.939">
+		<Object
+			Flags="16"
+			Belong="1001"
+			Prototype="tobacco" />
+	</Object>
+
+	<Object
+		Name="chest5"
+		Belong="1001"
+		Prototype="genericLocation"
+		Pos="2199.023 287.417 3860.992"
+		Radius="10.000" />
+
+	<Object
+		Belong="1100"
+		Prototype="firewood" />
+
+	<Object
+		Name="Books_loc"
+		Belong="1100"
+		Prototype="genericLocation"
+		Pos="402.926 256.265 3506.637"
+		Radius="10.000" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1011"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3175.908 275.476 1598.449"
+		Rot="0.000 0.988 0.000 0.156" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1012"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3160.978 289.120 1741.033"
+		Rot="0.000 -0.737 0.000 0.676" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1013"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3020.829 279.106 1675.117"
+		Rot="0.000 -0.725 0.000 0.688" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1014"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3029.482 239.603 1396.092"
+		Rot="0.000 -0.760 0.000 0.649" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1015"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3314.397 247.168 2087.293"
+		Rot="0.000 -0.431 0.000 0.902" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1016"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3341.975 269.673 2362.244"
+		Rot="0.000 1.000 0.000 -0.026" />
+
+	<Object
+		Name="r4_desert_palma_3_dyn1017"
+		Belong="1001"
+		Prototype="r4_desert_palma_3_dyn"
+		Pos="3363.172 258.152 2240.453"
+		Rot="0.000 -0.292 0.000 0.956" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1018"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3302.428 258.511 2161.837"
+		Rot="0.000 0.927 0.000 -0.375" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1019"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3336.681 269.538 2424.320"
+		Rot="0.000 0.760 0.000 0.649" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1020"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3445.552 259.952 1983.087"
+		Rot="0.000 0.974 0.000 -0.225" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1021"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3178.069 277.387 1616.540"
+		Rot="0.000 0.956 0.000 -0.292" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1022"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3077.150 289.646 1750.851"
+		Rot="0.000 0.701 0.000 0.713" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1023"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="2987.635 277.391 1757.771"
+		Rot="0.000 -0.070 0.000 0.998" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1024"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3072.446 254.619 1532.880"
+		Rot="0.000 -0.737 0.000 0.676" />
+
+	<Object
+		Name="r4_desert_palma_2_dyn1025"
+		Belong="1001"
+		Prototype="r4_desert_palma_2_dyn"
+		Pos="3138.867 255.867 1505.881"
+		Rot="0.000 0.225 0.000 0.974" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1026"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3058.531 264.978 1580.574"
+		Rot="0.000 0.999 0.000 -0.044" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1027"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3216.888 269.790 1523.561"
+		Rot="0.000 1.000 0.000 0.026" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1028"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3240.122 275.842 1689.735"
+		Rot="0.000 0.438 0.000 0.899" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1029"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="2971.827 264.093 1841.630"
+		Rot="0.000 0.755 0.000 0.656" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1030"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3292.189 259.348 1566.248"
+		Rot="0.000 -0.574 0.000 0.819" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1031"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3351.672 242.158 2025.622"
+		Rot="0.000 0.983 0.000 0.182" />
+
+	<Object
+		Name="r4_desert_palma_1_dyn1032"
+		Belong="1001"
+		Prototype="r4_desert_palma_1_dyn"
+		Pos="3289.552 266.228 2248.536"
+		Rot="0.000 0.174 0.000 0.985" />
+
+	<Object
+		Name="MestBandits_loc"
+		Belong="1105"
+		Prototype="genericLocation"
+		Pos="2339.430 218.194 1371.479"
+		Radius="25.000" />
+
+	<Object
+		Name="MestEd_loc"
+		Belong="1101"
+		Prototype="genericLocation"
+		Pos="2177.882 218.984 2467.922"
+		Radius="20.000" />
+
+	<Object
+		Belong="1100"
+		Prototype="vehicleRecollection" />
 </DynamicScene>

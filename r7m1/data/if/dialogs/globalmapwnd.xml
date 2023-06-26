@@ -157,7 +157,7 @@
 		<Node
 			name="sin_ico"
 			class="ImageWnd"
-			org="700.000 300.000 64.000 64.000"
+			org="618.000 468.000 64.000 64.000"
 			style="512"
 			order="4"
 			id="300000"
@@ -180,7 +180,7 @@
 		<Node
 			name="r7m1_ico"
 			class="ImageWnd"
-			org="618.000 468.000 64.000 64.000"
+			org="510.000 520.000 64.000 64.000"
 			style="512"
 			order="5"
 			id="300000"
@@ -201,6 +201,29 @@
 		</Node>
 
 		<Node
+			name="r7m1_sin_connection"
+			class="ImageWnd"
+			org="550.000 490.000 128.000 128.000"
+			style="768"
+			order="4"
+			id="300002"
+			caption="Control"
+			tip=""
+			backimage=""
+			paneName="defaultWnd"
+			scrollPaneName="Scroll1"
+			paneFlags="0"
+			wrap="2"
+			format="1"
+			font="0"
+			clientEdges="0.000 0.000 0.000 0.000"
+			wndColor="00000000"
+			textColor="ffffffff"
+			image="data\if\ico\GlobalMap\path_5_6.dds">
+			<Animations />
+		</Node>
+
+		<Node
 			name="r5m1_r5m2_connection"
 			class="ImageWnd"
 			org="246.000 402.000 162.000 64.000"
@@ -217,7 +240,7 @@
 			format="1"
 			font="0"
 			clientEdges="0.000 0.000 0.000 0.000"
-			wndColor="00000000"
+			wndColor="00000000" 
 			textColor="ffffffff"
 			image="data\if\ico\GlobalMap\path_1_2.dds">
 			<Animations />

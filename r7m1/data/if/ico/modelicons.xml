@@ -354,6 +354,7 @@
    <Item id="ToR5M2"			file1="data\if\ico\LocalMap\icn_exit.dds" 	file=""/>
    <Item id="ToR6M1"			file1="data\if\ico\LocalMap\icn_exit.dds" 	file=""/>
    <Item id="ToR6M2"			file1="data\if\ico\LocalMap\icn_exit.dds" 	file=""/>
+   <Item id="ToR7M2"			file1="data\if\ico\LocalMap\icn_exit.dds" 	file=""/>
 
 <!-- Боссы -->
    <Item id="bossMetalArm"			file="data\if\ico\BossIndicator\BossIcons\boss1.dds" file1=""/>

@@ -2,12 +2,16 @@
 <triggers>
 
 <!--Начало игры-->
-	<trigger Name="cinDoctorOut" active="0">
+	<trigger Name="cinDoctorOut" active="1">
 	<event	timeout="0.1"		eventid="GE_TIME_PERIOD" />
 		<script>
 			trigger:Deactivate()
 
 			SaveAllToleranceStatus(RS_NEUTRAL)
+
+			SetRadarUpgrade(1)
+
+			PlayCustomMusic("QuietDialogue01")
 
 			RuleConsole("cinematic_spring_coeff 1.7")
 
@@ -45,7 +49,7 @@
 			SetGameTime (12,0)
 
 			CreateNewDummyObject( "dweller_new_hero", "humPlayer", -1, -1, CVector(3388.285, 342.506, 292.459), Quaternion(0.0000, 0.2840, 0.0000, 0.9588), 0)
-			CreateNewDummyObject( "dweller_veter", "doc1", -1, -1, CVector(3387.748, 342.506, 293.654), Quaternion(0.0000, 0.7163, 0.0000, 0.6978), 2)
+			CreateNewDummyObject( "dweller_veter", "doc1", -1, -1, CVector(3387.748, 342.506, 293.654), Quaternion(0.0000, 0.7163, 0.0000, 0.6978), 1)
 
 			AddCinematicMessage( 100, 2.5)
 			AddCinematicMessage( 101, 0.25 )
@@ -184,6 +188,16 @@
 
 			RestoreAllToleranceStatus()
 
+			local humPl1 = GetEntityByName("humPlayer1")
+				if humPl1 
+					then humPl1:Remove() 
+				end
+
+			local humPl = GetEntityByName ("humPlayer")
+				if humPl 
+					then humPl:Remove() 
+				end
+
 			local docml = GetEntityByName ("doc1")
 			if docml 
 				then docml:Remove() 
@@ -205,6 +219,8 @@
 			StopPlayingCustomMusic()
 
 			SetCameraBehindPlayerVehicle()
+
+			TActivate( "trTutotialStart" )
 		</script>
 	</trigger>
 

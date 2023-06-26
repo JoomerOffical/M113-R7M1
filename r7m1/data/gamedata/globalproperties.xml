@@ -8,17 +8,17 @@
 <Properties>
 
 	<Belongs
-		Values="1101 1102 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114 1115 1116 1117 1118"
+		Values="1101 1105 1106 1107 1108 1109 1110 1111 1112 1113 1114 1115 1116 1117 1118 1120 1121 1122 1123"
 	/>
 
 	<IzvratRepository
 		MaxSize="13 12" />
 
 	<GroundRepository
-                        Size="13 10000" />
+    	Size="13 10000" />
 	<Mult	
 		GameTimeMult 				= "60" 
-		VehicleAIFiringRangeMult	= "1.0"
+		VehicleAIFiringRangeMult	= "0.25"
 		/>
 
 	<BurstParameters	
@@ -102,11 +102,11 @@
 		GunPriceCoeffForDrop				= "1.5"
 		GadgetPriceCoeffForDrop				= "1.5"
 		
-		ProbToDropMoney					= "0.25"
-		ProbToDropWares					= "0.25"	
-		ProbToDropGuns					= "0.10"
-		ProbToDropGadgetWeapon				= "0.10"
-		ProbToDropGadgetVehicle				= "0.10"
+		ProbToDropMoney					= "0.30"
+		ProbToDropWares					= "0.15"	
+		ProbToDropGuns					= "0.55"
+		ProbToDropGadgetWeapon				= "0.0"
+		ProbToDropGadgetVehicle				= "0.0"
 
 		MaxSpeedWithNoFuel	= "10"
 		DefaultShootDist	= "150"	
@@ -176,12 +176,15 @@
         
 	<Articles
 		DefaultRegenerationTime 	= "60"
+		ProbabilityToDropGunsFromDeadVehicles = "0.85"
 		/>
 		
 	<InfectionZones
-		ZoneFrontSectorAngle = "60"
-		ZoneBackSectorAngle = "120"
-		ZoneMaxInfectionRange = "1000"
+		ZoneFrontSectorAngle = "180"
+		ZoneBackSectorAngle = "180"
+		ZoneMaxInfectionRange = "500"
+		ZoneRespawnTimeOutIncreaseCoeff 	= "1.0"
+		ZoneDefaultFirstSpawnTime			= "1"
 		/>
 	
 
@@ -203,7 +206,6 @@
 		PlayerPassMapUnpassableMu 	= "0.3"
  		PlayerPassMapUnpassableErp 	= "0.1"
  		PlayerPassMapUnpassableCfm 	= "0.01"
- 		PlayerPassMapSoftResistance	= "0.4"
 	/>
 
 	<Weapon
@@ -238,7 +240,7 @@
     </DifficultyLevels>
 
 	<Price
-		Property2PriceCoeff		= "1.0"
+		Property2PriceCoeff		= "2.0"
 		PriceCoeffWhenLosingProfit  = "0.5"
 		/>
 
@@ -249,7 +251,7 @@
 		SpawneeModelsMinSize 	= "5"
 		TimeToShowGameOverStats	= "20000"
 		TimeBetweenAutomaticAddBots	= "2"
-		BotNickNames			= "mif2K Razaz JSinx Akari Borg Phosgen Santa Nukem AlexML Anton Goryh Isymbosi Jerzy Kaineer Puntus Roman Sega Shadow Staz Vano White UncleFu Hrrr Xoposhiy Crash Max Deniz Desperado Evgene LS Billy SergeO Sam Nomad Felix Axel Ben"
+		BotNickNames			= "mif2K Razaz JSinx Akari Borg Phosgen Santa Nukem AlexML Anton Goryh Isymbosi Jerzy Kaineer Puntus Roman Sega Shadow Staz Vano White UncleFu Hrrr Xoposhiy Crash Max Deniz Desperado Evgene LS Billy SergeO Sam Nomad Felix Axel Ben SoftKitty"
 		PlayerColors			= "ff090A0C ff53504A FF909899 ffEBE7DC FF24343B ff385429 ff56AC68 ffB9DD90 ff23305C ff154F6D ff7E8DC3 ff88BFC9 ff421346 ff59326F ff9451BB ffC3A0D8 ff55043F ff7A1649 ffB54D85 ffF09FC4 ff521603 ff721806 ffAA2211 ffFD4831 ff503223 FF9B3B10 ffFF9C00 ffF4B450 ff534222 ff777000 ffD7C43E ffEEEF9C"
 		DefaultPlayerColors		= "4 8 15"
 		>

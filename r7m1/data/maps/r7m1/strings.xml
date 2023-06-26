@@ -81,19 +81,24 @@
 		time="3" />
 
 	<string
-		id="8801"
+		id="196"
+		value="ExMachina||Вы хотите воспользоваться|интерактивной системой помощи игры?"
+		numButtons="2" />
+
+	<string
+		id="197"
 		value="Вы желаете покинуть эту область?"
 		numButtons="2" />
 
 	<string
-		id="8802"
+		id="198"
 		modelName="NewHero_mask"
 		value="БРОДЯГА|Я не знаю, куда ведет эта дорога, поэтому останусь здесь." 
 		sound="data\sounds\Speech\r5m1\r5m1_8802_nomad.ogg"
 		time="5" />
 
 	<string
-		id="8803"
+		id="199"
 		modelName="NewHero_mask"
 		value="БРОДЯГА|Какое-то странное место. Лучше держаться отсюда подальше."
 		sound="data\sounds\Speech\r5m1\r5m1_8803_nomad.ogg"
