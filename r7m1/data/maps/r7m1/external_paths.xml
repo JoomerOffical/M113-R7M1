@@ -1445,4 +1445,775 @@
 		<Point
 			coord="3296.693 3893.083" />
 	</Path>
+
+	<Path
+		Name="hum1">
+		<Point
+			coord="2261.583 2665.497" />
+
+		<Point
+			coord="2262.914 2654.728" />
+
+		<Point
+			coord="2261.609 2645.027" />
+
+		<Point
+			coord="2261.017 2637.283" />
+
+		<Point
+			coord="2251.161 2637.250" />
+
+		<Point
+			coord="2245.230 2635.925" />
+
+		<Point
+			coord="2245.597 2627.434" />
+
+		<Point
+			coord="2236.136 2623.201" />
+
+		<Point
+			coord="2223.572 2621.112" />
+
+		<Point
+			coord="2211.861 2622.218" />
+
+		<Point
+			coord="2209.237 2635.284" />
+
+		<Point
+			coord="2206.171 2646.088" />
+
+		<Point
+			coord="2201.424 2659.230" />
+
+		<Point
+			coord="2213.266 2665.611" />
+
+		<Point
+			coord="2222.879 2665.693" />
+
+		<Point
+			coord="2232.796 2663.311" />
+
+		<Point
+			coord="2233.829 2643.857" />
+
+		<Point
+			coord="2234.117 2632.128" />
+
+		<Point
+			coord="2241.884 2638.050" />
+
+		<Point
+			coord="2257.313 2640.972" />
+
+		<Point
+			coord="2258.582 2648.596" />
+	</Path>
+
+	<Path
+		Name="hum10">
+		<Point
+			coord="370.714 2349.333" />
+
+		<Point
+			coord="352.175 2337.103" />
+
+		<Point
+			coord="348.887 2321.026" />
+
+		<Point
+			coord="348.784 2303.113" />
+
+		<Point
+			coord="345.257 2285.857" />
+
+		<Point
+			coord="342.741 2274.149" />
+
+		<Point
+			coord="317.324 2271.668" />
+
+		<Point
+			coord="305.612 2275.166" />
+
+		<Point
+			coord="306.369 2292.156" />
+
+		<Point
+			coord="305.452 2306.115" />
+
+		<Point
+			coord="302.284 2323.695" />
+
+		<Point
+			coord="301.019 2339.011" />
+
+		<Point
+			coord="297.364 2352.857" />
+
+		<Point
+			coord="293.583 2360.727" />
+
+		<Point
+			coord="293.654 2370.841" />
+
+		<Point
+			coord="301.936 2373.209" />
+
+		<Point
+			coord="302.926 2381.136" />
+
+		<Point
+			coord="304.964 2396.844" />
+
+		<Point
+			coord="301.687 2405.982" />
+	</Path>
+
+	<Path
+		Name="hum11">
+		<Point
+			coord="306.681 2406.199" />
+
+		<Point
+			coord="308.258 2396.885" />
+
+		<Point
+			coord="308.268 2384.409" />
+
+		<Point
+			coord="305.142 2373.972" />
+
+		<Point
+			coord="295.373 2366.826" />
+
+		<Point
+			coord="293.052 2359.712" />
+
+		<Point
+			coord="299.603 2352.291" />
+
+		<Point
+			coord="301.350 2338.012" />
+
+		<Point
+			coord="299.787 2321.944" />
+
+		<Point
+			coord="300.803 2305.876" />
+
+		<Point
+			coord="303.573 2289.668" />
+
+		<Point
+			coord="307.418 2271.463" />
+
+		<Point
+			coord="330.554 2269.487" />
+
+		<Point
+			coord="343.438 2272.487" />
+
+		<Point
+			coord="346.277 2287.798" />
+
+		<Point
+			coord="348.067 2299.595" />
+
+		<Point
+			coord="349.240 2314.921" />
+
+		<Point
+			coord="347.441 2328.017" />
+
+		<Point
+			coord="354.394 2335.913" />
+
+		<Point
+			coord="363.099 2340.572" />
+
+		<Point
+			coord="366.408 2351.972" />
+
+		<Point
+			coord="366.785 2362.596" />
+
+		<Point
+			coord="368.910 2371.049" />
+
+		<Point
+			coord="381.247 2371.801" />
+	</Path>
+
+	<Path
+		Name="hum12">
+		<Point
+			coord="293.054 2300.038" />
+
+		<Point
+			coord="299.577 2319.193" />
+
+		<Point
+			coord="299.140 2331.724" />
+
+		<Point
+			coord="298.812 2346.037" />
+
+		<Point
+			coord="303.034 2360.753" />
+
+		<Point
+			coord="305.376 2372.157" />
+
+		<Point
+			coord="306.393 2382.397" />
+
+		<Point
+			coord="307.094 2391.490" />
+
+		<Point
+			coord="304.016 2405.105" />
+	</Path>
+
+	<Path
+		Name="hum13">
+		<Point
+			coord="348.108 2285.613" />
+
+		<Point
+			coord="348.497 2301.776" />
+
+		<Point
+			coord="348.506 2316.009" />
+
+		<Point
+			coord="350.168 2330.158" />
+
+		<Point
+			coord="351.361 2343.042" />
+
+		<Point
+			coord="353.577 2361.232" />
+
+		<Point
+			coord="361.063 2379.396" />
+
+		<Point
+			coord="378.381 2378.897" />
+	</Path>
+
+	<Path
+		Name="hum14">
+		<Point
+			coord="328.503 2678.260" />
+
+		<Point
+			coord="327.920 2659.388" />
+
+		<Point
+			coord="328.128 2642.683" />
+
+		<Point
+			coord="330.765 2631.706" />
+
+		<Point
+			coord="340.854 2631.111" />
+
+		<Point
+			coord="349.840 2630.897" />
+
+		<Point
+			coord="349.563 2643.583" />
+
+		<Point
+			coord="349.747 2662.229" />
+
+		<Point
+			coord="349.725 2675.194" />
+	</Path>
+
+	<Path
+		Name="hum15">
+		<Point
+			coord="348.337 2667.973" />
+
+		<Point
+			coord="349.507 2648.212" />
+
+		<Point
+			coord="346.566 2631.362" />
+
+		<Point
+			coord="332.761 2629.306" />
+
+		<Point
+			coord="325.420 2618.702" />
+
+		<Point
+			coord="324.000 2598.798" />
+
+		<Point
+			coord="324.348 2583.672" />
+
+		<Point
+			coord="336.032 2574.473" />
+
+		<Point
+			coord="356.771 2574.801" />
+	</Path>
+
+	<Path
+		Name="hum16">
+		<Point
+			coord="356.213 2602.770" />
+
+		<Point
+			coord="335.512 2604.368" />
+
+		<Point
+			coord="325.554 2605.951" />
+
+		<Point
+			coord="325.027 2622.615" />
+
+		<Point
+			coord="323.635 2637.672" />
+
+		<Point
+			coord="321.538 2658.938" />
+
+		<Point
+			coord="323.001 2670.934" />
+
+		<Point
+			coord="323.899 2686.508" />
+	</Path>
+
+	<Path
+		Name="hum17">
+		<Point
+			coord="357.070 2577.451" />
+
+		<Point
+			coord="362.144 2601.813" />
+
+		<Point
+			coord="342.713 2604.472" />
+
+		<Point
+			coord="328.264 2604.690" />
+
+		<Point
+			coord="324.001 2611.073" />
+
+		<Point
+			coord="326.404 2627.749" />
+
+		<Point
+			coord="338.094 2632.556" />
+
+		<Point
+			coord="353.730 2634.709" />
+
+		<Point
+			coord="352.478 2654.182" />
+
+		<Point
+			coord="352.986 2672.942" />
+	</Path>
+
+	<Path
+		Name="hum18">
+		<Point
+			coord="3389.239 3290.628" />
+
+		<Point
+			coord="3413.411 3293.881" />
+
+		<Point
+			coord="3425.240 3290.209" />
+
+		<Point
+			coord="3426.314 3281.592" />
+
+		<Point
+			coord="3425.889 3270.851" />
+
+		<Point
+			coord="3424.559 3258.663" />
+	</Path>
+
+	<Path
+		Name="hum19">
+		<Point
+			coord="3403.906 3178.400" />
+
+		<Point
+			coord="3395.325 3164.143" />
+
+		<Point
+			coord="3389.398 3159.648" />
+
+		<Point
+			coord="3378.052 3162.284" />
+
+		<Point
+			coord="3371.309 3165.031" />
+
+		<Point
+			coord="3374.913 3172.777" />
+
+		<Point
+			coord="3375.451 3179.250" />
+
+		<Point
+			coord="3369.360 3187.739" />
+
+		<Point
+			coord="3370.130 3198.384" />
+	</Path>
+
+	<Path
+		Name="hum2">
+		<Point
+			coord="2230.294 2663.065" />
+
+		<Point
+			coord="2215.486 2662.408" />
+
+		<Point
+			coord="2201.114 2663.286" />
+
+		<Point
+			coord="2200.300 2647.419" />
+
+		<Point
+			coord="2202.365 2638.070" />
+
+		<Point
+			coord="2203.989 2623.085" />
+
+		<Point
+			coord="2217.733 2623.407" />
+
+		<Point
+			coord="2228.554 2623.744" />
+
+		<Point
+			coord="2243.189 2623.313" />
+
+		<Point
+			coord="2244.470 2632.437" />
+
+		<Point
+			coord="2256.388 2634.095" />
+
+		<Point
+			coord="2263.955 2635.632" />
+
+		<Point
+			coord="2264.250 2652.632" />
+
+		<Point
+			coord="2264.782 2663.524" />
+	</Path>
+
+	<Path
+		Name="hum3">
+		<Point
+			coord="2235.968 2576.154" />
+
+		<Point
+			coord="2221.160 2577.510" />
+
+		<Point
+			coord="2198.677 2578.348" />
+
+		<Point
+			coord="2198.864 2560.406" />
+
+		<Point
+			coord="2196.819 2531.929" />
+
+		<Point
+			coord="2218.337 2530.078" />
+
+		<Point
+			coord="2228.080 2530.997" />
+
+		<Point
+			coord="2237.819 2530.430" />
+
+		<Point
+			coord="2246.165 2528.785" />
+
+		<Point
+			coord="2247.760 2514.555" />
+
+		<Point
+			coord="2246.260 2504.534" />
+
+		<Point
+			coord="2233.628 2501.000" />
+
+		<Point
+			coord="2221.128 2501.201" />
+
+		<Point
+			coord="2212.365 2501.669" />
+
+		<Point
+			coord="2198.177 2501.733" />
+
+		<Point
+			coord="2196.176 2512.462" />
+
+		<Point
+			coord="2197.346 2522.842" />
+
+		<Point
+			coord="2200.856 2532.468" />
+
+		<Point
+			coord="2205.104 2543.018" />
+
+		<Point
+			coord="2205.834 2551.986" />
+
+		<Point
+			coord="2215.441 2553.396" />
+
+		<Point
+			coord="2223.029 2552.891" />
+
+		<Point
+			coord="2221.295 2543.626" />
+
+		<Point
+			coord="2218.800 2537.400" />
+	</Path>
+
+	<Path
+		Name="hum4">
+		<Point
+			coord="2143.978 2512.726" />
+
+		<Point
+			coord="2124.966 2512.044" />
+
+		<Point
+			coord="2106.572 2511.172" />
+
+		<Point
+			coord="2090.875 2512.679" />
+
+		<Point
+			coord="2083.464 2526.809" />
+
+		<Point
+			coord="2082.814 2546.162" />
+
+		<Point
+			coord="2084.847 2563.719" />
+
+		<Point
+			coord="2088.227 2575.250" />
+
+		<Point
+			coord="2093.576 2581.068" />
+
+		<Point
+			coord="2106.529 2580.289" />
+
+		<Point
+			coord="2122.460 2581.233" />
+
+		<Point
+			coord="2141.507 2580.009" />
+
+		<Point
+			coord="2153.554 2576.958" />
+
+		<Point
+			coord="2155.194 2557.714" />
+
+		<Point
+			coord="2156.811 2547.082" />
+
+		<Point
+			coord="2154.732 2528.818" />
+
+		<Point
+			coord="2153.780 2515.859" />
+	</Path>
+
+	<Path
+		Name="hum5">
+		<Point
+			coord="2147.068 2667.001" />
+
+		<Point
+			coord="2137.805 2667.103" />
+
+		<Point
+			coord="2124.864 2666.806" />
+
+		<Point
+			coord="2112.903 2667.725" />
+
+		<Point
+			coord="2098.162 2666.954" />
+
+		<Point
+			coord="2084.261 2663.332" />
+
+		<Point
+			coord="2073.279 2663.729" />
+
+		<Point
+			coord="2066.657 2648.283" />
+
+		<Point
+			coord="2067.553 2634.155" />
+
+		<Point
+			coord="2072.219 2626.721" />
+
+		<Point
+			coord="2071.762 2604.422" />
+
+		<Point
+			coord="2082.633 2599.225" />
+
+		<Point
+			coord="2104.542 2598.657" />
+
+		<Point
+			coord="2127.692 2598.593" />
+
+		<Point
+			coord="2150.555 2599.610" />
+
+		<Point
+			coord="2154.245 2616.372" />
+
+		<Point
+			coord="2154.083 2633.324" />
+
+		<Point
+			coord="2153.011 2648.807" />
+
+		<Point
+			coord="2153.601 2658.789" />
+	</Path>
+
+	<Path
+		Name="hum6">
+		<Point
+			coord="341.044 2234.778" />
+
+		<Point
+			coord="340.808 2213.580" />
+
+		<Point
+			coord="322.296 2211.756" />
+
+		<Point
+			coord="305.494 2214.583" />
+
+		<Point
+			coord="303.572 2231.733" />
+
+		<Point
+			coord="312.653 2238.447" />
+	</Path>
+
+	<Path
+		Name="hum7">
+		<Point
+			coord="306.908 2237.460" />
+
+		<Point
+			coord="302.824 2218.618" />
+
+		<Point
+			coord="317.108 2210.243" />
+
+		<Point
+			coord="326.880 2210.693" />
+
+		<Point
+			coord="338.582 2211.724" />
+
+		<Point
+			coord="339.838 2219.966" />
+
+		<Point
+			coord="340.920 2230.226" />
+
+		<Point
+			coord="341.337 2237.294" />
+
+		<Point
+			coord="345.181 2240.033" />
+
+		<Point
+			coord="345.130 2248.526" />
+
+		<Point
+			coord="336.652 2252.446" />
+	</Path>
+
+	<Path
+		Name="hum8">
+		<Point
+			coord="341.661 2251.250" />
+
+		<Point
+			coord="339.350 2232.794" />
+
+		<Point
+			coord="338.449 2215.617" />
+
+		<Point
+			coord="326.219 2211.502" />
+
+		<Point
+			coord="311.786 2214.173" />
+
+		<Point
+			coord="303.740 2219.907" />
+
+		<Point
+			coord="305.911 2236.135" />
+
+		<Point
+			coord="313.761 2242.189" />
+	</Path>
+
+	<Path
+		Name="hum9">
+		<Point
+			coord="307.154 2224.993" />
+
+		<Point
+			coord="308.656 2213.731" />
+
+		<Point
+			coord="324.916 2211.818" />
+
+		<Point
+			coord="337.056 2211.693" />
+
+		<Point
+			coord="339.618 2223.949" />
+
+		<Point
+			coord="340.662 2236.541" />
+
+		<Point
+			coord="339.713 2250.544" />
+	</Path>
 </Paths>

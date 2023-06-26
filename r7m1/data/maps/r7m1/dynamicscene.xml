@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="1036">
+	LastId="1066">
 	<TargetNamesForDestroy
 		Names="DynQEnemy01 DynQEnemy02 DynQEnemy03 DynQEnemy04 DynQEnemy05 DynQEnemy06 DynQEnemy07 DynQEnemy08 DynQEnemy09 DynQEnemy10 DynQEnemy11 DynQEnemy12 DynQEnemy13 DynQEnemy14 DynQEnemy15 DynQEnemy16 DynQEnemy17 DynQEnemy18 DynQEnemy19 DynQEnemy20 DynQEnemy21 DynQEnemy22 DynQEnemy23 DynQEnemy24 DynQEnemy25" />
 
@@ -325,7 +325,7 @@
 		Name="r4_desert_palma_1_dyn130"
 		Belong="1001"
 		Prototype="r4_desert_palma_1_dyn"
-		Pos="2597.595 249.199 3454.962" />
+		Pos="2597.595 252.199 3454.962" />
 
 	<Object
 		Name="r4_desert_palma_1_dyn131"
@@ -2275,7 +2275,7 @@
 		Name="r4_desert_palma_2_dyn513"
 		Belong="1001"
 		Prototype="r4_desert_palma_2_dyn"
-		Pos="1752.119 254.269 1749.820" />
+		Pos="1752.119 254.276 1749.820" />
 
 	<Object
 		Name="r4_desert_palma_2_dyn514"
@@ -3181,7 +3181,7 @@
 		Name="r4_desert_palma_2_dyn668"
 		Belong="1001"
 		Prototype="r4_desert_palma_2_dyn"
-		Pos="1863.479 257.375 1575.345" />
+		Pos="1863.479 257.378 1575.345" />
 
 	<Object
 		Name="r4_desert_palma_2_dyn669"
@@ -3265,7 +3265,7 @@
 		Name="r4_desert_palma_3_dyn682"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1848.528 258.660 1647.076" />
+		Pos="1848.528 258.692 1647.076" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn683"
@@ -3301,7 +3301,7 @@
 		Name="r4_desert_palma_3_dyn688"
 		Belong="1001"
 		Prototype="r4_desert_palma_3_dyn"
-		Pos="1799.542 266.073 1046.091" />
+		Pos="1799.542 266.141 1046.091" />
 
 	<Object
 		Name="r4_desert_palma_3_dyn689"
@@ -3474,7 +3474,7 @@
 			Name="Monterrey_defend"
 			Belong="1101"
 			Prototype="location"
-			Pos="326.194 331.162 2258.174"
+			Pos="324.081 331.053 2262.374"
 			Rot="0.000 -0.996 0.000 0.089"
 			Radius="40.000" />
 
@@ -3482,7 +3482,7 @@
 			Name="Monterrey_deploy"
 			Belong="1101"
 			Prototype="location"
-			Pos="292.668 334.570 2385.876"
+			Pos="290.555 334.608 2390.076"
 			Rot="0.000 -0.996 0.000 0.089"
 			Radius="10.000" />
 
@@ -3490,7 +3490,7 @@
 			Name="Monterrey_enter"
 			Belong="1101"
 			Prototype="location"
-			Pos="326.194 331.162 2258.174"
+			Pos="324.081 331.053 2262.374"
 			Rot="0.000 -0.996 0.000 0.089"
 			Radius="40.000" />
 
@@ -6516,6 +6516,187 @@
 		Prototype="genericLocation"
 		Pos="2177.882 218.984 2467.922"
 		Radius="20.000" />
+
+	<Object
+		Name="hum01"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="2260.355 226.598 2665.391"
+		Rot="0.000 0.696 0.000 0.718"
+		PathsNames="hum1" />
+
+	<Object
+		Name="Hum02"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="2232.058 224.409 2663.274"
+		Rot="0.000 -0.718 0.000 0.696"
+		PathsNames="hum2" />
+
+	<Object
+		Name="Hum03"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="2235.738 222.781 2574.346"
+		Rot="0.000 -0.695 0.000 0.719"
+		PathsNames="hum3" />
+
+	<Object
+		Name="Hum04"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="2145.168 217.105 2512.748"
+		Rot="0.000 -0.719 0.000 0.695"
+		PathsNames="hum4" />
+
+	<Object
+		Name="Hum05"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="2148.990 226.570 2667.079"
+		Rot="0.000 -0.704 0.000 0.710"
+		PathsNames="hum5" />
+
+	<Object
+		Name="Hum08"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="342.120 331.896 2252.668"
+		Rot="0.000 -0.998 0.000 0.068"
+		PathsNames="hum8" />
+
+	<Object
+		Name="Hum06"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="341.462 331.662 2235.808"
+		Rot="0.000 -1.000 0.000 -0.017"
+		PathsNames="hum6" />
+
+	<Object
+		Name="Hum07"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="307.877 330.897 2237.854"
+		Rot="0.000 1.000 0.000 -0.002"
+		PathsNames="hum7" />
+
+	<Object
+		Name="Hum09"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="306.743 330.887 2226.760"
+		Rot="0.000 0.998 0.000 0.063"
+		PathsNames="hum9" />
+
+	<Object
+		Name="Human21047"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="313.665 331.010 2207.959" />
+
+	<Object
+		Name="Human21048"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="344.025 331.350 2213.054"
+		Rot="0.000 -0.367 0.000 0.930" />
+
+	<Object
+		Name="Human31050"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="309.307 330.979 2207.873"
+		Rot="0.000 0.395 0.000 0.919" />
+
+	<Object
+		Name="Human31051"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="317.720 331.039 2208.844" />
+
+	<Object
+		Name="Human31052"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="315.350 331.038 2206.964" />
+
+	<Object
+		Name="Hum10"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="371.111 333.783 2350.294"
+		Rot="0.000 -0.899 0.000 0.438"
+		PathsNames="hum10" />
+
+	<Object
+		Name="Hum11"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="306.476 334.099 2408.398"
+		Rot="0.000 1.000 0.000 0.007"
+		PathsNames="hum11" />
+
+	<Object
+		Name="Hum12"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="293.050 331.249 2298.990"
+		PathsNames="hum12" />
+
+	<Object
+		Name="Hum13"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="348.148 332.463 2284.143"
+		PathsNames="hum13" />
+
+	<Object
+		Name="Hum14"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="328.330 334.954 2679.378"
+		Rot="0.000 0.999 0.000 0.033"
+		PathsNames="hum14" />
+
+	<Object
+		Name="Hum15"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="348.457 333.904 2670.075"
+		Rot="0.000 0.999 0.000 0.050"
+		PathsNames="hum15" />
+
+	<Object
+		Name="Hum16"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="356.907 333.289 2603.014"
+		Rot="0.000 -0.710 0.000 0.704"
+		PathsNames="hum16" />
+
+	<Object
+		Name="Hum17"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="356.543 332.815 2575.855"
+		PathsNames="hum17" />
+
+	<Object
+		Name="Hum18"
+		Belong="1001"
+		Prototype="Human2"
+		Pos="3388.174 255.000 3290.216"
+		Rot="0.000 0.682 0.000 0.731"
+		PathsNames="hum18" />
+
+	<Object
+		Name="Hum19"
+		Belong="1001"
+		Prototype="Human3"
+		Pos="3404.237 255.000 3180.110"
+		Rot="0.000 -0.981 0.000 0.193"
+		PathsNames="hum19" />
 
 	<Object
 		Belong="1100"
