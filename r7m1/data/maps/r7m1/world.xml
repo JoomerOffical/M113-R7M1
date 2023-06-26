@@ -2,7 +2,7 @@
 <World
 	name="Object670"
 	class="SgNode"
-	LastId="992748400">
+	LastId="992748479">
 	<Node
 		name="Object992744636"
 		class="SgAnimatedModelNode"
@@ -9929,5 +9929,103 @@
 		org="1794.114 0.000 3759.158"
 		orgRel="1"
 		id="lamppost3"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748432"
+		class="SgAnimatedModelNode"
+		org="317.725 0.000 2202.611"
+		orgRel="1"
+		id="agro_tech1"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748434"
+		class="SgAnimatedModelNode"
+		org="346.829 0.000 2236.241"
+		orgRel="1"
+		id="tankeg"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748435"
+		class="SgAnimatedModelNode"
+		org="341.914 0.000 2209.332"
+		orgRel="1"
+		id="tankeg"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748436"
+		class="SgAnimatedModelNode"
+		org="301.239 0.000 2213.496"
+		orgRel="1"
+		id="tankeg"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748437"
+		class="SgAnimatedModelNode"
+		org="312.352 0.000 2244.135"
+		orgRel="1"
+		id="tankeg"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748438"
+		class="SgAnimatedModelNode"
+		org="324.805 0.000 2156.555"
+		orgRel="1"
+		rot="0.0000 0.7025 0.0000 0.7117"
+		id="Anticwar_House"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748440"
+		class="SgAnimatedModelNode"
+		org="323.219 0.000 2159.362"
+		orgRel="1"
+		id="dweller_white"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748474"
+		class="SgAnimatedModelNode"
+		org="2252.125 0.000 2648.934"
+		orgRel="1"
+		id="agro_tech4"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748475"
+		class="SgAnimatedModelNode"
+		org="3433.142 0.000 3295.958"
+		orgRel="1"
+		id="agro_tech2"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748476"
+		class="SgAnimatedModelNode"
+		org="3440.069 0.000 3282.135"
+		orgRel="1"
+		id="agro_tech1"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748477"
+		class="SgAnimatedModelNode"
+		org="3409.040 0.000 3165.678"
+		orgRel="1"
+		id="agro_tech1"
+		ndmAction="0" />
+
+	<Node
+		name="Object992748478"
+		class="SgAnimatedModelNode"
+		org="3402.750 0.000 3150.087"
+		orgRel="1"
+		rot="0.0000 0.1089 0.0000 0.9941"
+		id="agro_tech3"
 		ndmAction="0" />
 </World>

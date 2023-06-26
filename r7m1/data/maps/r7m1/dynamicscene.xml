@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
 <DynamicScene
-	LastId="1066">
+	LastId="1078">
 	<TargetNamesForDestroy
 		Names="DynQEnemy01 DynQEnemy02 DynQEnemy03 DynQEnemy04 DynQEnemy05 DynQEnemy06 DynQEnemy07 DynQEnemy08 DynQEnemy09 DynQEnemy10 DynQEnemy11 DynQEnemy12 DynQEnemy13 DynQEnemy14 DynQEnemy15 DynQEnemy16 DynQEnemy17 DynQEnemy18 DynQEnemy19 DynQEnemy20 DynQEnemy21 DynQEnemy22 DynQEnemy23 DynQEnemy24 DynQEnemy25" />
 
@@ -6697,6 +6697,72 @@
 		Pos="3404.237 255.000 3180.110"
 		Rot="0.000 -0.981 0.000 0.193"
 		PathsNames="hum19" />
+
+	<Object
+		Name="Breakable_Barrel11066"
+		Belong="1001"
+		Prototype="Breakable_Barrel1"
+		Pos="347.059 332.139 2251.591" />
+
+	<Object
+		Name="Breakable_Barrel11067"
+		Belong="1001"
+		Prototype="Breakable_Barrel1"
+		Pos="347.466 332.142 2250.509" />
+
+	<Object
+		Name="Breakable_Barrel11068"
+		Belong="1001"
+		Prototype="Breakable_Barrel1"
+		Pos="346.599 332.082 2249.576" />
+
+	<Object
+		Name="Breakable_Barrel21069"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="301.008 330.925 2234.152" />
+
+	<Object
+		Name="Breakable_Barrel21070"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="301.181 330.922 2232.978" />
+
+	<Object
+		Name="Breakable_Barrel21071"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="300.961 330.926 2235.656" />
+
+	<Object
+		Name="Breakable_Barrel21072"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="302.199 330.912 2234.426" />
+
+	<Object
+		Name="Breakable_Barrel21074"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="307.810 331.088 2199.718" />
+
+	<Object
+		Name="Breakable_Barrel21075"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="309.290 331.101 2199.555" />
+
+	<Object
+		Name="Breakable_Barrel21076"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="307.803 331.070 2200.755" />
+
+	<Object
+		Name="Breakable_Barrel21077"
+		Belong="1001"
+		Prototype="Breakable_Barrel2"
+		Pos="308.962 331.078 2200.770" />
 
 	<Object
 		Belong="1100"
